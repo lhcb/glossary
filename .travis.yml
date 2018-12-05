@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+  - "node"
+addons:
+  apt:
+    packages:
+    - calibre
+    - calibre-bin
+before_install:
+  - npm install gitbook-cli -g
+install:
+  - gitbook install
+  - npm install svgexport -g
+script:
+  - gitbook pdf
+  - cp book.pdf glossary.pdf
+  - gitbook build
+# With instructions from http://www.steveklabnik.com/automatically_update_github_pages_with_travis_example/
+#after_success:
+#  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash deploy.sh
