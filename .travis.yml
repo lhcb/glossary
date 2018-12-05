@@ -17,4 +17,4 @@ deploy:
   keep-history: true
   on:
     branch: master
-  directory: _book
+  local-dir: _book
