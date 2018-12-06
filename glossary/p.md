@@ -1,5 +1,9 @@
 # P
 
+## PFN: Physical File Name {#PFN}
+
+A path for a file on the grid, including the physical location to allow for access.
+
 ## PHOTOS
 
 Software package for adding final state radiation (FSR) to simulated particles.
