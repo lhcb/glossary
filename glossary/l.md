@@ -12,3 +12,7 @@ A specific flavour of the DIRAC software for LHCb. It includes some extra functi
 ## LFN: Logical File Name {#LFN}
 
 Logical File Name. A path for a file stored on the grid that does not depend on a file's physical location(s).
+
+## Luminosity Levelling (lumi levelling)
+
+Procedure of adjust LHC beam parameters such that the instantaneous luminosity stays constant as function of time, although the beam current decreases.

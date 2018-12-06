@@ -13,6 +13,9 @@ The **LHCb** software framework, see the [Gaudi homepage](http://gaudi.web.cern.
 A software package which is used for simulating the processes that occur between as particles move through matter.
 [_Website_](https://geant4.web.cern.ch/).
 
+## GPD: General Purpose Detector
+
+Collective term for the ATLAS and CMS experiments at the LHC
 
 ## Grid Certificate
 
