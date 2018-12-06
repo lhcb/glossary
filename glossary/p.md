@@ -19,7 +19,15 @@ The process of determining what species a final state particle is.
 
 ## PPG: Physics Planning Group {#PPG}
 
-Advisory body to the LHCb management that defines the strategy and priority of the experiments physics program.
+Advisory body to the LHCb management that defines the strategy and priority of the experiments physics programme.
+
+## Production Request {#PR}
+
+A request for processing centrally a physics request. Production Requests are managed by the LHCb distributed computing team via LHCbDIRAC. LHCb users can create production requests via the [LHCbDIRAC Web Portal](https://lhcb-portal-dirac.cern.ch/DIRAC/?view=tabs&theme=Grey&url_state=1|*LHCbDIRAC.ProductionRequestManager.classes.ProductionRequestManager). Production Requests are subject to approval by the [PPG](p.html#PPG).
+
+## Productions {#Productions}
+
+Centrally managed processing, via LHCbDIRAC, of Production Requests (p.html#PR). Examples of productions include: MC simulation, Reconstruction, Stripping, Working Group productions. A production is a combination of application steps.
 
 ## PV: Primary Vertex {#PV}
 
