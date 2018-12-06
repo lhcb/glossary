@@ -7,7 +7,9 @@ A path for a file on the grid, including the physical location to allow for acce
 ## PHOTOS
 
 Software package for adding final state radiation (FSR) to simulated particles.
-<a href="https://doi.org/10.1016/0010-4655(91)90012-A"><i>Eur. Phys. J. C45 (2006) 97</i></a>.
+[_Eur. Phys. J. C45 (2006) 97_][]
+
+[_Eur. Phys. J. C45 (2006) 97_]: https://doi.org/10.1016/0010-4655(91)90012-A
 
 ## PID: Particle identification {#PID}
 
