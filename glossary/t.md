@@ -1,7 +1,8 @@
 # T
 
-**Track**
-: The signature that is reconstructed when a charged particle travels through LHCb.
+## Track
+
+The signature that is reconstructed when a charged particle travels through LHCb.
 Split into 5 types depending on which parts of the tracking system are used:
 
 * Downstream Track
