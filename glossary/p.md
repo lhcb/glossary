@@ -1,6 +1,6 @@
 # P
 
-## PFN: Physical File Name {#PF}
+## PFN: Physical File Name {#PFN}
 
 A path for a file on the grid, including the physical location to allow for access.
 
