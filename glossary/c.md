@@ -1,5 +1,9 @@
 # C
 
+## CC7: CentOS CERN 7
+
+"Default" Linux operating system at CERN (CentOS7 default operating system on lxplus since start of 2019)
+
 ## CE: Computing Element {#CE}
 
 A service at a grid site that runs jobs. For example `LCG.CERN.cern`, `LCG.RAL.uk`.

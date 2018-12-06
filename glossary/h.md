@@ -1,5 +1,9 @@
 # H
 
+## HLT: High Level Trigger
+
+Software trigger. Software that decides if data from the detectore gets written to storage or thrown away.
+
 ## HTCondor
 
 Formerly Condor. Backend for [CERN's batch service](http://information-technology.web.cern.ch/services/batch). Use `Condor` backend in Ganga.
