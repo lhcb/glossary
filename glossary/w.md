@@ -1,6 +1,6 @@
 # W
 
-## Worker Node (WN) {#WN}
+## WN: Worker Node {#WN}
 
 The actual computer that processes your job.
 
