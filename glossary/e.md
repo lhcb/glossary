@@ -9,4 +9,4 @@ See the [ECGD office webpages](http://lhcb.web.cern.ch/lhcb/ECGD_Office/ECGD-int
 ## EvtGen
 
 Software package for simulating the decays of heavy flavour particles using a wide range of decay models.
-[_Website_](https://evtgen.hepforge.org)
+[_Website_](https://evtgen.hepforge.org).
