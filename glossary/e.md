@@ -1,5 +1,9 @@
 # E
 
+## EB: Editorial Board {#EB}
+
+Group responsible for ensuring that all LHCb publications are consistent with the standards and style of the collaboration.
+
 ## ECGD: Early Career, Gender and Diversity {#ECGD}
 
 The Early Career, Gender and Diversity office has been set up to help LHCb achieve a healthy working environment

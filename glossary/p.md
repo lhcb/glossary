@@ -15,6 +15,10 @@ The process of determining what species a final state particle is.
 [Charged particle identification](https://twiki.cern.ch/twiki/bin/viewauth/LHCbPhysics/ChargedPID) typically separates electrons, kaons, muons, pions and protons.
 [Neutral particle identification](https://twiki.cern.ch/twiki/bin/view/LHCbPhysics/CalorimeterObjectsToolsGroup) typically separates neutral pions and photons.
 
+## PPG: Physics Planning Group {#PPG}
+
+Advisory body to the LHCb management that defines the strategy and priority of the experiments physics program.
+
 ## PV: Primary Vertex {#PV}
 
 The point of the original, typically proton-proton, collision.

@@ -4,6 +4,9 @@
 
 A service at a grid-site that runs jobs. For example `LCG.CERN.cern`, `LCG.RAL.uk`.
 
+## CB: Collaboration Board {#CB}
+
+The ultimate authority within LHCb representing all institutes within in the collaboration.
 
 ## CVMFS: CERN Virtual Machine File System {#CVMFS}
 

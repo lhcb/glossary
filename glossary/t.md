@@ -1,5 +1,9 @@
 # T
 
+## TB: Technical Board {#TB}
+
+Advisory body to the LHCb management on all aspects of detector design, optimization, safety and cost.
+
 ## Track
 
 The signature that is reconstructed when a charged particle travels through LHCb.
