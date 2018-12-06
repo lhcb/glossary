@@ -11,4 +11,4 @@ The shortest distance between a pair of tracks.
 
 ## DIRA: Direction angle {#DIRA}
 
-The angle between a line drawn from the primary vertex to the decay vertex of the particle and the sum of the 4-momentum of it's decay products.
+The angle between a line drawn from the primary vertex to the decay vertex of the particle and the sum of the 4-momentum of its decay products.

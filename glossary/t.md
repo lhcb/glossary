@@ -11,4 +11,4 @@ Split into 5 types depending on which parts of the tracking system are used:
 * Upstream Track
 * Velo Track
 
-[!["Track types in LHCb"](figures/track_types.png)](figures/track_types.png)
+[!["Track types in LHCb"](/figures/track_types.png)](/figures/track_types.png)
