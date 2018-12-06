@@ -25,6 +25,10 @@ Interaction point of the LHC at which LHCb is located.
 
 Advisory body to the LHCb management that defines the strategy and priority of the experiments physics programme.
 
+## Power cycle
+
+Short for "turning it off and on again".
+
 ## Production Request {#PR}
 
 A request for processing centrally a physics request. Production Requests are managed by the LHCb distributed computing team via LHCbDIRAC. LHCb users can create production requests via the [LHCbDIRAC Web Portal](https://lhcb-portal-dirac.cern.ch/DIRAC/?view=tabs&theme=Grey&url_state=1|*LHCbDIRAC.ProductionRequestManager.classes.ProductionRequestManager). Production Requests are subject to approval by the [PPG](p.html#PPG).
