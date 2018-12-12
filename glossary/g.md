@@ -14,13 +14,13 @@ A software package which is used for simulating the processes that occur between
 [_Website_](https://geant4.web.cern.ch/).
 
 
-### GLIMOS: Group Leader In Matters Of Safety {#GLIMOS}
+## GLIMOS: Group Leader In Matters Of Safety {#GLIMOS}
 
 Each collaboration has one of its members designated as the authority in safety matters.
 At CERN, the Group Leader In Matters Of Safety has complete authority over personnel and equipment in all matters that concern safety of the experiment,
 independently of what home institute the personnel or equipment belongs.
 
-# GPD: General Purpose Detector {#GPD}
+## GPD: General Purpose Detector {#GPD}
 
 Collective term for detectors capable of performing various types of studies.
 The ATLAS and CMS experiments at the LHC are GPDs.
