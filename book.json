@@ -1,5 +1,8 @@
 {
   "author": "The Starterkit team and contributors",
+  "structure": {
+      "readme": "gitbook_readme.md"
+  },
   "plugins": [
     "-sharing",
     "panels@git+https://github.com/lhcb/gitbook-plugin-panels.git#master",

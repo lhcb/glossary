@@ -1,6 +1,6 @@
 # LHCb Glossary   [![Build Status](https://travis-ci.com/lhcb/glossary.svg?branch=master)](https://travis-ci.com/lhcb/glossary)
 
-Glossary of HEP and LHCb-specific terms and concepts - online at [https://lhcb.github.io/glossary/](https://lhcb.github.io/glossary/).
+Glossary of HEP and LHCb-specific terms and concepts - online at <https://lhcb.github.io/glossary/>.
 
 
 [**A**](glossary/a.md)&nbsp;&nbsp;&nbsp;&nbsp;
