@@ -1,14 +1,20 @@
-language: node_js
+dist: xenial
+language: python
 node_js:
   - "node"
+python:
+  - "3.7"
+
 branches:
   only:
     - master
+
 before_install:
   - npm install gitbook-cli -g
 install:
   - gitbook install
 script:
+  - python3 .ci/prepare.py
   - gitbook build
 deploy:
   provider: pages
