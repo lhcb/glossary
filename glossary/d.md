@@ -1,5 +1,9 @@
 # D
 
+## DIRA: Direction angle {#DIRA}
+
+The angle between a line drawn from the [primary vertex](p.html#PV) to the decay vertex of the particle and the sum of the 4-momentum of its decay products.
+
 ## DIRAC: Distributed Infrastructure with Remote Agent Control {#DIRAC}
 
 DIRAC is the software framework for distributed computing used in LHCb.
@@ -9,6 +13,7 @@ Official [DIRAC website](http://diracgrid.org/).
 
 The shortest distance between a pair of tracks.
 
-## DIRA: Direction angle {#DIRA}
+## DSS: Detector Safety System {#DSS}
 
-The angle between a line drawn from the [primary vertex](p.html#PV) to the decay vertex of the particle and the sum of the 4-momentum of its decay products.
+Protection system for the experiment.
+Details in the Online System [webpages](http://lhcb-comp.web.cern.ch/lhcb-comp/DSS/default.htm).

@@ -1,5 +1,9 @@
 # L
 
+## LFN: Logical File Name {#LFN}
+
+A path for a file stored on the grid that does not depend on a file's physical location(s).
+
 ## LHCb
 
 Our experiment!

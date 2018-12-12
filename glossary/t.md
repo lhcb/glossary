@@ -11,6 +11,10 @@ Also represented in the [OPG]{o.html#OPG} as Alignment and as Tracking.
 
 Advisory body to the LHCb management on all aspects of detector design, optimization, safety and cost.
 
+## TCK : Trigger Configuration Key {#TCK}
+
+A unique 32-bit configuration value (in base 16) representing a given trigger configuration (sequence of algorithms and selection cuts).
+
 ## Track
 
 The signature that is reconstructed when a charged particle travels through LHCb.
@@ -26,13 +30,13 @@ Split into 5 types depending on which parts of the tracking system are used:
 
 ## Track Type
 
-The type of the track used in TupleToolTrackInfo, and anything that includes it. See [Tracking strategies used in LHCb](https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbTrackingStrategies#Track_types) or [TupleToolTrackInfo](https://twiki.cern.ch/twiki/bin/view/LHCb/TupleToolTrackInfo) for details. The types are:
+The type of the track used in `TupleToolTrackInfo`, and anything that includes it. See [Tracking strategies used in LHCb](https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbTrackingStrategies#Track_types) or [TupleToolTrackInfo](https://twiki.cern.ch/twiki/bin/view/LHCb/TupleToolTrackInfo) for details. The types are:
 
 | ID | Track type |
 |----|------------|
 | 0  |  Unknown   |
-| 1  |  Velo track |
-| 2  |  2D Velo track |
+| 1  |  VELO track |
+| 2  |  2D VELO track |
 | 3  |  Long (or forward) track |
 | 4  |  Upstream track |
 | 5  |  Downstream track |
