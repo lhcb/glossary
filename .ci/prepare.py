@@ -24,7 +24,8 @@ base = './glossary'
 
 with open('gitbook_readme.md', 'w') as out:
     print("# LHCb Glossary\n", file=out)
-    print("Glossary of HEP and LHCb-specific terms and concepts - make a pull request at <https://github.com/lhcb/glossary>\n", file=out)
+    print("Glossary of HEP and LHCb-specific terms and concepts - make a pull request at <https://github.com/lhcb/glossary>.\n", file=out)
+    print("Contributions to the glossary are highly encouraged. Please see the [contributing guide](https://github.com/lhcb/glossary/blob/master/CONTRIBUTING.md) for details.\n", file=out)
     print("## Terms:\n", file=out)
 
     for fn in sorted((DIR.parent / 'glossary').glob('?.md')):
@@ -41,4 +42,3 @@ with open('gitbook_readme.md', 'w') as out:
                                                                         .lower())
 
                     print(f"* [{name}]({base}/{letter}.md#{link})", file=out)
-
