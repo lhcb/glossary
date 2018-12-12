@@ -32,4 +32,4 @@ Glossary of HEP and LHCb-specific terms and concepts - online at <https://lhcb.g
 
 
 Contributions to the glossary are highly encouraged. Please see the
-[contributing guide][contributing] for details.
+[contributing guide](CONTRIBUTING.md) for details.
