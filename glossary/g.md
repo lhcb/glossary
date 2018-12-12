@@ -13,9 +13,10 @@ The **LHCb** software framework, see the [Gaudi homepage](http://gaudi.web.cern.
 A software package which is used for simulating the processes that occur between as particles move through matter.
 [_Website_](https://geant4.web.cern.ch/).
 
-## GPD: General Purpose Detector
+## GPD: General Purpose Detector {#GPD}
 
-Collective term for the ATLAS and CMS experiments at the LHC
+Collective term for detectors capable of performing various types of studies.
+The ATLAS and CMS experiments at the LHC are GPDs.
 
 ## Grid Certificate
 
@@ -24,4 +25,3 @@ Certificate required to access grid services. Can be [obtained from CERN](https:
 ## Grid Proxy
 
 X509 authentication to use the grid. The proxy is generated from your grid certificate with the command `lhcb-proxy-init` and by default is valid for 24 hours. In Ganga you create the proxy with `credential_store.create(DiracProxy())`.
-

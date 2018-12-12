@@ -19,15 +19,15 @@ The process of determining what species a final state particle is.
 
 ## Point 8
 
-Interaction point of the LHC at which LHCb is located.
-
-## PPG: Physics Planning Group {#PPG}
-
-Advisory body to the LHCb management that defines the strategy and priority of the experiments physics programme.
+Interaction point of the LHC at which the LHCb pit and the cavern are located.
 
 ## Power cycle
 
 Short for "turning it off and on again".
+
+## PPG: Physics Planning Group {#PPG}
+
+Advisory body to the LHCb management that defines the strategy and priority of the experiments physics programme.
 
 ## Production Request {#PR}
 

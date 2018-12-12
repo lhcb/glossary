@@ -6,7 +6,7 @@
 
 ## FT
 
-abbreviation for
+Abbreviation for:
 
- * (Scintillating) Fiber Tracker see [SciFi](glossary/s.html#scifi)
- * Flavour Tagging
+ * (Scintillating) Fiber Tracker see [SciFi](glossary/s.html#scifi).
+ * Flavour Tagging.

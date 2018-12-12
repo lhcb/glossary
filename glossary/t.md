@@ -1,11 +1,11 @@
 # T
 
-# T&A: Tracking and Alignment (and Vertexing)
+# T&A: Tracking and Alignment (and Vertexing) {#TandA}
 
-Physics permormance working group for matters of Tracking, Alignment, and Vertexing.
-Also represented in the OPG as Alignment and as Tracking.
+LHCb physics performance working group for matters of Tracking, Alignment, and Vertexing.
+Also represented in the [OPG]{o.html#OPG} as Alignment and as Tracking.
 
-## Tagging (see [Flavour Tagging]{glossary/f.html#flavourtagging})
+## Tagging (see [Flavour Tagging]{f.html#flavourtagging})
 
 ## TB: Technical Board {#TB}
 
@@ -40,4 +40,3 @@ The type of the track used in TupleToolTrackInfo, and anything that includes it.
 | 7  |  Muon track |
 | 8  |  Calorimeter cosmic track |
 | 9  |  TT track |
-

@@ -1,8 +1,9 @@
 # U
 
-## UFO: Unidentified falling object
+## UFO: Unidentified falling object {#UFO}
 
-Unknown small object (think of a grain of dust) that is falling within the LHC beam pipe into the beam. Leading to large interactions between the beam and the object, and thus particle showers. Lead to a beam dump upon detection as protective measure.
+Unknown small object (think of a grain of dust) that is falling within the LHC beam pipe into the beam, leading to large interactions between the beam and the object, and thus particle showers.
+UFOs are known to cause LHC beam dumps upon detection, as a protective measure.
 
 ## USPG: Upgrade Software Planning Group {#USPG}
 
