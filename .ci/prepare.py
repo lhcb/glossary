@@ -22,9 +22,9 @@ title_pattern = re.compile(r'''
 DIR = Path(__file__).resolve().parent
 base = './glossary'
 
-with open('README.md', 'w') as out:
+with open('gitbook_readme.md', 'w') as out:
     print("# LHCb Glossary\n", file=out)
-    print("Glossary of HEP and LHCb-specific terms and concepts - make a pull request at <github.com/lhcb/glossary>\n", file=out)
+    print("Glossary of HEP and LHCb-specific terms and concepts - make a pull request at <https://github.com/lhcb/glossary>\n", file=out)
     print("## Terms:\n", file=out)
 
     for fn in sorted((DIR.parent / 'glossary').glob('?.md')):
