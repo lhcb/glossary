@@ -25,6 +25,8 @@ By contributing, you are agreeing that we may redistribute your work under [CC-B
 
    There should be two `##`, followed by the definition. If this expands to something,
    you should add that in the same line after a colon, and then put a `{#hyperlink}` to just the unexpanded term.
+   
+   If you link to another page, please use the format `[TERM](t.md#TERM)` to make the link (and on the same page the page name is not needed). This should work in both the final webpage and locally on GitHub.
 
 4.  Please install the [dependencies](#dependencies) if you want to build the glossary locally.
 
