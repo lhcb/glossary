@@ -7,7 +7,7 @@ Group responsible for ensuring that all LHCb publications are consistent with th
 ## ECAL: Electromagnetic Calorimeter {#ECAL}
 
 The purpose of the ECAL is to measure the energy of electrons/photons and prevent them from travelling further through the detector.
-Like the [HCAL](glossary/h.html#HCAL), it is a sampling calorimeter made of layers of iron and plastic scintillator.
+Like the [HCAL](h.md#HCAL), it is a sampling calorimeter made of layers of iron and plastic scintillator.
 
 ## ECGD: Early Career, Gender and Diversity {#ECGD}
 

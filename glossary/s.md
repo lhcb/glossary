@@ -22,13 +22,13 @@ A computing centre hosting grid computing services. For example: `IN2P3-LAPP`.
 
 ## SPD: Scintillating Pad Detector {#SPD}
 
-The SPD consists of scintillating pads and is placed before the [PS](glossary/p.html#PS).
-The joint purpose of the SPD and PS is to reduce the background for the [L0](glossary/l.html#L0) electron trigger.
-The SPD, in conjunction with the [ECAL](glossary/e.html#ECAL), helps distinguish between electrons and neutral particles like photons and neutral pions.
+The SPD consists of scintillating pads and is placed before the [PS](p.md#PS).
+The joint purpose of the SPD and PS is to reduce the background for the [L0](l.md#L0) electron trigger.
+The SPD, in conjunction with the [ECAL](e.md#ECAL), helps distinguish between electrons and neutral particles like photons and neutral pions.
 
 ## ST: Silicon Tracker {#ST}
 
-A term that collectively refers to the [TT](glossary/t.html#TT) and [IT](glossary/i.html#IT).
+A term that collectively refers to the [TT](t.md#TT) and [IT](i.md#IT).
 
 ## Starterkit
 

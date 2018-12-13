@@ -3,8 +3,8 @@
 ## L0: Level Zero Trigger
 
 The hardware-level trigger that operated during Runs 1 and 2.
-It synchronised to the 40 MHz bunch crossing rate to limit the detector readout rate to 1 MHz into the [HLT](glossary/h.html#HLT).
-Information to make the L0 trigger decisions came from the [CALO](glossary/c.html#CALO) and [MUON](glossary/m.html#MUON) systems.
+It synchronised to the 40 MHz bunch crossing rate to limit the detector readout rate to 1 MHz into the [HLT](h.md#HLT).
+Information to make the L0 trigger decisions came from the [CALO](c.md#CALO) and [MUON](m.md#MUON) systems.
 
 ## LFN: Logical File Name {#LFN}
 

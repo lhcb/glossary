@@ -2,9 +2,9 @@
 
 ## CALO: Calorimeters {#CALO}
 
-The entire calorimetry system at LHCb ([SPD](glossary/s.html#SPD)/[PS](glossary/p.html#PS), [ECAL](glossary/e.html#ECAL), [HCAL](glossary/h.html#HCAL) is often collectively referred to as CALO.
+The entire calorimetry system at LHCb ([SPD](s.md#SPD)/[PS](p.md#PS), [ECAL](e.md#ECAL), [HCAL](h.md#HCAL) is often collectively referred to as CALO.
 Its purpose is to discriminate between electrons, photons and hadrons as well as provide measurements of their energy and position.
-In Runs 1 and 2, the CALO played an important role providing transverse energy measurements to the [L0](glossary/l.html#L0) trigger.
+In Runs 1 and 2, the CALO played an important role providing transverse energy measurements to the [L0](l.md#L0) trigger.
 
 ## CB: Collaboration Board {#CB}
 
