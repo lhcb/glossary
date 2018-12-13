@@ -1,5 +1,10 @@
 # H
 
+## HCAL: Hadronic Calorimeter {#HCAL}
+
+The purpose of the HCAL is to stop and measure the energy of hadrons.
+Like the [ECAL](glossary/e.html#ECAL), it is a sampling calorimeter made of layers of iron and plastic scintillator.
+
 ## HLT: High Level Trigger {#HLT}
 
 Software trigger. Software that decides if data from the detectore gets written to storage or thrown away.

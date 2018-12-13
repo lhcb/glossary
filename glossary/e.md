@@ -4,6 +4,11 @@
 
 Group responsible for ensuring that all LHCb publications are consistent with the standards and style of the collaboration.
 
+## ECAL: Electromagnetic Calorimeter {#ECAL}
+
+The purpose of the ECAL is to stop and measure the energy of electrons and photons.
+Like the [HCAL](glossary/h.html#HCAL), it is a sampling calorimeter made of layers of iron and plastic scintillator.
+
 ## ECGD: Early Career, Gender and Diversity {#ECGD}
 
 The Early Career, Gender and Diversity office has been set up to help LHCb achieve a healthy working environment

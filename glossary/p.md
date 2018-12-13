@@ -37,6 +37,13 @@ A request for processing centrally a physics request. Production Requests are ma
 
 Centrally managed processing, via LHCbDIRAC, of Production Requests (p.html#PR). Examples of productions include: MC simulation, Reconstruction, Stripping, Working Group productions. A production is a combination of application steps.
 
+## PS: Preshower Detector {#PS}
+
+The PS consists of scintillating pads and is placed after the [SPD](glossary/s.html#SPD) and before the [ECAL](glossary/e.html#ECAL).
+A lead absorber is placed between the SPD and PS.
+The joint purpose of the SPD and PS is to reduce the background for the [L0](glossary/l.html#L0) electron trigger.
+The PS helps distinguish between electrons and charged hadrons.
+
 ## PV: Primary Vertex {#PV}
 
 The point of the original, typically proton-proton, collision.
