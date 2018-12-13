@@ -1,6 +1,6 @@
 # K
 
-## Kalman Filter {#KF}
+## Kalman Filter
 
 A Kalman filter is a recursive filter processing algorithm which incorporates in a statistical way
 all the available information describing a system: system (statistical) model,
