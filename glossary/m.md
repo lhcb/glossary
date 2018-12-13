@@ -10,4 +10,4 @@ See [NuMuPileUp](https://twiki.cern.ch/twiki/bin/view/LHCb/NuMuPileUp).
 Originally five stations (M1-M5) that identify and track muons.
 M1 was between [RICH](glossary/r.html#RICH)2 and the [CALO](glossary/c.html#CALO) but was removed after Run 2.
 The rest are at the very end of the detector.
-With the exception of the inner-most region of M1, which used triple gas electron multipliers (GEMs), the MUON consists of multi-wire proportional counters (MWPCs).
+With the exception of the inner-most region of M1, which used triple gas electron multipliers (GEMs), the MUON consists of multi-wire proportional chambers (MWPCs).
