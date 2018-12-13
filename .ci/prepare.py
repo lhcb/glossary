@@ -21,12 +21,18 @@ title_pattern = re.compile(r'''
 
 DIR = Path(__file__).resolve().parent
 base = './glossary'
+terms = '## Summary of terms'
 
+# Read in old readme
+with open('gitbook_readme.md', 'r') as f:
+    txt = f.read()
+
+# Make new readme; remove terms if this was run more than once
 with open('gitbook_readme.md', 'w') as out:
-    print("# LHCb Glossary\n", file=out)
-    print("Glossary of HEP and LHCb-specific terms and concepts - make a pull request at <https://github.com/lhcb/glossary>.\n", file=out)
-    print("Contributions to the glossary are highly encouraged. Please see the [contributing guide](https://github.com/lhcb/glossary/blob/master/CONTRIBUTING.md) for details.\n", file=out)
-    print("## Terms:\n", file=out)
+
+    intro = txt.split(terms)[0]
+    print(intro, file=out)
+    print(terms, file=out)
 
     for fn in sorted((DIR.parent / 'glossary').glob('?.md')):
         letter = fn.stem
