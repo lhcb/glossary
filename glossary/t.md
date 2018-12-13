@@ -19,7 +19,7 @@ A unique 32-bit configuration value (in base 16) representing a given trigger co
 
 ## Tier (Grid) {#Tier}
 
-Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, PIC) and tier 2 sites (mostly universities) store data, the tier 1s in particular storing raw data. The tier 3 sites do not store data. See [here for details]{http://wlcg-public.web.cern.ch/tier-centres}.
+Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, PIC) and tier 2 sites (mostly universities) store data, the tier 1s in particular storing raw data. The tier 3 sites do not store data. See [here for details](http://wlcg-public.web.cern.ch/tier-centres).
 
 ## Track
 
