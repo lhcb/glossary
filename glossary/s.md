@@ -26,6 +26,10 @@ The SPD consists of scintillating pads and is placed before the [PS](glossary/p.
 The joint purpose of the SPD and PS is to reduce the background for the [L0](glossary/l.html#L0) electron trigger.
 The SPD, in conjunction with the [ECAL](glossary/e.html#ECAL), helps distinguish between electrons and neutral particles like photons and neutral pions.
 
+## ST: Silicon Tracker {#ST}
+
+A term that collectively refers to the [TT](glossary/t.html#TT) and [IT](glossary/i.html#IT).
+
 ## Starterkit
 
 One week introduction course into computer usage at LHCb for young students. With no prerequisites on Linux usage, teaching basic survival skills including Grid usage and ntuple production.

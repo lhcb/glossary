@@ -46,3 +46,9 @@ The type of the track used in `TupleToolTrackInfo`, and anything that includes i
 | 7  |  Muon track |
 | 8  |  Calorimeter cosmic track |
 | 9  |  TT track |
+
+## TT: Tracker Turicensis
+
+The tracking station located immediately before the magnet in Runs 1 and 2.
+It played an important role in reconstructing tracks that originate outside the [VELO](glossary/v.html#VELO), such as those that come from K-shorts and Lambda baryons.
+Much like the [IT](glossary/i.html#IT) stations, the TT consists of 4 layers of silicon strips, oriented at 0°, −5°, +5° and 0° from the vertical.
