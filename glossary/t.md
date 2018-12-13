@@ -3,11 +3,11 @@
 ## T&A: Tracking and Alignment (and Vertexing) {#TandA}
 
 LHCb physics performance working group for matters of Tracking, Alignment, and Vertexing.
-Also represented in the [OPG](o.html#OPG) as Alignment and as Tracking.
+Also represented in the [OPG](o.md#OPG) as Alignment and as Tracking.
 
 ## Tagging
 
-See [Flavour Tagging](f.html#flavourtagging).
+See [Flavour Tagging](f.md#flavourtagging).
 
 ## TB: Technical Board {#TB}
 
@@ -50,3 +50,9 @@ The type of the track used in `TupleToolTrackInfo`, and anything that includes i
 | 7  |  Muon track |
 | 8  |  Calorimeter cosmic track |
 | 9  |  TT track |
+
+## TT: Tracker Turicensis
+
+The tracking station located immediately before the magnet in Runs 1 and 2.
+It played an important role in reconstructing tracks that originate outside the [VELO](v.md#VELO), such as those that come from K-shorts and Lambda baryons.
+Much like the [IT](i.md#IT) stations, the TT consists of 4 layers of silicon strips, oriented at 0°, −5°, +5° and 0° from the vertical.

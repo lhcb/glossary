@@ -2,7 +2,7 @@
 
 ## DIRA: Direction angle {#DIRA}
 
-The angle between a line drawn from the [primary vertex](p.html#PV) to the decay vertex of the particle and the sum of the 4-momentum of its decay products.
+The angle between a line drawn from the [primary vertex](p.md#PV) to the decay vertex of the particle and the sum of the 4-momentum of its decay products.
 One typically uses the cosine of the direction angle in selections.
 
 ## DIRAC: Distributed Infrastructure with Remote Agent Control {#DIRAC}
