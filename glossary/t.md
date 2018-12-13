@@ -3,11 +3,11 @@
 ## T&A: Tracking and Alignment (and Vertexing) {#TandA}
 
 LHCb physics performance working group for matters of Tracking, Alignment, and Vertexing.
-Also represented in the [OPG](o.html#OPG) as Alignment and as Tracking.
+Also represented in the [OPG](o.md#OPG) as Alignment and as Tracking.
 
 ## Tagging
 
-See [Flavour Tagging](f.html#flavourtagging).
+See [Flavour Tagging](f.md#flavourtagging).
 
 ## TB: Technical Board {#TB}
 

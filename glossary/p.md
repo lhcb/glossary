@@ -31,11 +31,11 @@ Advisory body to the LHCb management that defines the strategy and priority of t
 
 ## Production Request {#PR}
 
-A request for processing centrally a physics request. Production Requests are managed by the LHCb distributed computing team via LHCbDIRAC. LHCb users can create production requests via the [LHCbDIRAC Web Portal](https://lhcb-portal-dirac.cern.ch/DIRAC/?view=tabs&theme=Grey&url_state=1|*LHCbDIRAC.ProductionRequestManager.classes.ProductionRequestManager). Production Requests are subject to approval by the [PPG](p.html#PPG).
+A request for processing centrally a physics request. Production Requests are managed by the LHCb distributed computing team via LHCbDIRAC. LHCb users can create production requests via the [LHCbDIRAC Web Portal](https://lhcb-portal-dirac.cern.ch/DIRAC/?view=tabs&theme=Grey&url_state=1|*LHCbDIRAC.ProductionRequestManager.classes.ProductionRequestManager). Production Requests are subject to approval by the [PPG](p.md#PPG).
 
 ## Productions {#Productions}
 
-Centrally managed processing, via LHCbDIRAC, of Production Requests (p.html#PR). Examples of productions include: MC simulation, Reconstruction, Stripping, Working Group productions. A production is a combination of application steps.
+Centrally managed processing, via LHCbDIRAC, of Production Requests (p.md#PR). Examples of productions include: MC simulation, Reconstruction, Stripping, Working Group productions. A production is a combination of application steps.
 
 ## PS: Preshower Detector {#PS}
 

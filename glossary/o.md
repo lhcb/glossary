@@ -2,7 +2,7 @@
 
 ## OPG: Operation Planning Group {#OPG}
 
-Advisory body to the LHCb management that is responsible for collecting and processing data according to the priorities set out by the [PPG](p.html#PPG).
+Advisory body to the LHCb management that is responsible for collecting and processing data according to the priorities set out by the [PPG](p.md#PPG).
 
 ## OT: Outer Tracker {#OT}
 
