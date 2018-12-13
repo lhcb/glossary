@@ -17,6 +17,10 @@ Advisory body to the LHCb management on all aspects of detector design, optimiza
 
 A unique 32-bit configuration value (in base 16) representing a given trigger configuration (sequence of algorithms and selection cuts).
 
+## Tier (Grid) {#Tier}
+
+Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, PIC) and tier 2 sites (mostly universities) store data, the tier 1s in particular storing raw data. The tier 3 sites do not store data. See [here for details](http://wlcg-public.web.cern.ch/tier-centres).
+
 ## Track
 
 The signature that is reconstructed when a charged particle travels through LHCb.
