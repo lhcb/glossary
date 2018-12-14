@@ -41,6 +41,10 @@ A request for processing centrally a physics request. Production Requests are ma
 
 Centrally managed processing, via LHCbDIRAC, of Production Requests (p.md#PR). Examples of productions include: MC simulation, Reconstruction, Stripping, Working Group productions. A production is a combination of application steps.
 
+## ETA: Pseudorapidity {$ETA}
+
+The angle between a particle's trajectory and the beam axis, see [Wikipedia](https://en.wikipedia.org/wiki/Pseudorapidity).
+
 ## PS: Preshower Detector {#PS}
 
 The PS consists of scintillating pads and is placed after the [SPD](s.md#SPD) and before the [ECAL](e.md#ECAL).
