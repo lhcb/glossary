@@ -1,5 +1,9 @@
 # M
 
+## Moore
+
+The LHCb trigger emulation application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/moore/) .
+
 ## mu
 
 The average number of visible, i.e. inelastic, proton-proton collisions in an LHC bunch crossing.

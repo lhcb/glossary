@@ -6,7 +6,7 @@ A small collection of files passed along with your job. The sandboxes are stored
 
 ## Scientific Linux CERN (SLC) {#SLC}
 
-Former "default" Linux operating system at CERN (SLC6 default operating system on lxplus until end of 2018)
+Former "default" Linux operating system at CERN (SLC6 default operating system on lxplus until end of 2018).
 
 ## SciFi: Scintillating Fibre Tracker {#SciFi}
 

@@ -1,5 +1,9 @@
 # D
 
+## DaVinci
+
+Event selection and data analysis application. [Project website](lhcbdoc.web.cern.ch/lhcbdoc/davinci/).
+
 ## DIRA: Direction angle {#DIRA}
 
 The angle between a line drawn from the [primary vertex](p.md#PV) to the decay vertex of the particle and the sum of the 4-momentum of its decay products.

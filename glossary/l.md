@@ -1,6 +1,6 @@
 # L
 
-## L0: Level Zero Trigger
+## L0: Level Zero Trigger {#L0}
 
 The hardware-level trigger that operated during Runs 1 and 2.
 It synchronised to the 40 MHz bunch crossing rate to limit the detector readout rate to 1 MHz into the [HLT](h.md#HLT).

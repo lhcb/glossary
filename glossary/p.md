@@ -1,5 +1,9 @@
 # P
 
+## Panoramix
+
+Graphical display of detector and event information. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/panoramix/).
+
 ## PFN: Physical File Name {#PFN}
 
 A path for a file on the grid, including the physical location to allow for access.
