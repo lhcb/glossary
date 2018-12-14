@@ -2,7 +2,7 @@
 
 ## Panoramix
 
-Graphical display of detector and event infomration. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/panoramix/)
+Graphical display of detector and event information. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/panoramix/).
 
 ## PFN: Physical File Name {#PFN}
 

@@ -2,7 +2,7 @@
 
 ## DaVinci
 
-Event selection and data analysis application. [Project website](http://cern.ch/LHCb-release-area/DOC/davinci/)
+Event selection and data analysis application. [Project website](lhcbdoc.web.cern.ch/lhcbdoc/davinci/).
 
 ## DIRA: Direction angle {#DIRA}
 

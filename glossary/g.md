@@ -10,7 +10,7 @@ The **LHCb** software framework, see the [Gaudi homepage](http://gaudi.web.cern.
 
 ## Gauss
 
-The LHCb simulation application. [Project website](http://cern.ch/LHCb-release-area/DOC/gauss/)
+The LHCb simulation application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/gauss/).
 
 ## GEANT4: GEometry ANd Tracking 4 {#GEANT4}
 

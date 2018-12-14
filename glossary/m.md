@@ -2,7 +2,7 @@
 
 ## Moore
 
-The LHCb trigger emulation application.
+The LHCb trigger emulation application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/moore/) .
 
 ## mu
 

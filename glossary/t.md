@@ -23,13 +23,13 @@ Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, 
 
 ## TISTOS
 
-Trigger decisions can be classified into three categories
+Trigger decisions can be classified into three categories:
 
-- Trigger on signal (TOS): a positive decision can be reached using only information from the signal candidate.
-- Trigger independently of signal (TIS): a positive decision can be reached using only information from the rest of the event.
+- Trigger On Signal (TOS): a positive decision can be reached using information from the signal candidate.
+- Trigger Independently of Signal (TIS): a positive decision can be reached using information from the rest of the event.
 - Trigger on both (TOB): a positive decision requires the entire event.
 
-TIS and TOS are not mutually exclusive.
+Note that the TIS and TOS categories are not mutually exclusive.
 
 ## Track
 

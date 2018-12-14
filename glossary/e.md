@@ -24,7 +24,7 @@ Details in the Online System [webpages](http://lhcb-online.web.cern.ch/lhcb-onli
 
 ## Erasmus
 
-High-level physics analysis software repository, similar to [Urania](e.md#Urania) but based on [Bender](b.md#Bender)/[DaVinci](d.md#DaVinci).
+High-level physics analysis software repository, similar to [Urania](u.md#Urania) but based on [Bender](b.md#Bender)/[DaVinci](d.md#DaVinci).
 
 ## EvtGen
 

@@ -10,8 +10,8 @@ The LHCb data recording and data provenance tool. Every single file ever produce
 
 ## Boole
 
-The LHCb digitisation (simulation of detector response) application. [Project website](http://cern.ch/LHCb-release-area/DOC/boole/)
+The LHCb digitisation (simulation of detector response) application. [Project website](lhcbdoc.web.cern.ch/lhcbdoc/boole/).
 
 ## Brunel
 
-The LHCb reconstruction application. [Project website](http://cern.ch/LHCb-release-area/DOC/brunel/)
+The LHCb reconstruction application. [Project website](lhcbdoc.web.cern.ch/lhcbdoc/brunel/).
