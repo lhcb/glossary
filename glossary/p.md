@@ -43,7 +43,7 @@ Centrally managed processing, via LHCbDIRAC, of Production Requests (p.md#PR). E
 
 ## ETA: Pseudorapidity {#ETA}
 
-The angle between a particle's trajectory and the beam axis, see [Wikipedia](https://en.wikipedia.org/wiki/Pseudorapidity).
+The angle between a particle's trajectory and the beam axis, see [Wikipedia](https://wikipedia.org/wiki/Pseudorapidity).
 
 ## PS: Preshower Detector {#PS}
 
