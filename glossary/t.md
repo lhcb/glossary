@@ -13,13 +13,23 @@ See [Flavour Tagging](f.md#flavourtagging).
 
 Advisory body to the LHCb management on all aspects of detector design, optimization, safety and cost.
 
-## TCK : Trigger Configuration Key {#TCK}
+## TCK: Trigger Configuration Key {#TCK}
 
 A unique 32-bit configuration value (in base 16) representing a given trigger configuration (sequence of algorithms and selection cuts).
 
 ## Tier (Grid) {#Tier}
 
 Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, PIC) and tier 2 sites (mostly universities) store data, the tier 1s in particular storing raw data. The tier 3 sites do not store data. See [here for details](http://wlcg-public.web.cern.ch/tier-centres).
+
+## TISTOS
+
+Trigger decisions can be classified into three categories
+
+- Trigger on signal (TOS): a positive decision can be reached using only information from the signal candidate.
+- Trigger independently of signal (TIS): a positive decision can be reached using only information from the rest of the event.
+- Trigger on both (TOB): a positive decision requires the entire event.
+
+TIS and TOS are not mutually exclusive.
 
 ## Track
 
@@ -51,7 +61,7 @@ The type of the track used in `TupleToolTrackInfo`, and anything that includes i
 | 8  |  Calorimeter cosmic track |
 | 9  |  TT track |
 
-## TT: Tracker Turicensis
+## TT: Tracker Turicensis {#TT}
 
 The tracking station located immediately before the magnet in Runs 1 and 2.
 It played an important role in reconstructing tracks that originate outside the [VELO](v.md#VELO), such as those that come from K-shorts and Lambda baryons.
