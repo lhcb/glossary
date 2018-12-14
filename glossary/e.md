@@ -22,6 +22,10 @@ This includes all devices in the areas of data acquisition, detector control (e.
 and the interaction with the outside world.
 Details in the Online System [webpages](http://lhcb-online.web.cern.ch/lhcb-online/ecs/default.htm).
 
+## Erasmus
+
+High-level physics analysis software repository, similar to [Urania](e.md#Urania) but based on [Bender](b.md#Bender)/[DaVinci](d.md#DaVinci).
+
 ## EvtGen
 
 Software package for simulating the decays of heavy flavour particles using a wide range of decay models.

@@ -7,6 +7,8 @@ UFOs are known to cause LHC beam dumps upon detection, as a protective measure.
 
 ## Urania
 
+High-level physics analysis software repository, similar to [Erasmus](e.md#Erasmus) but based on heptools.
+
 ## USPG: Upgrade Software Planning Group {#USPG}
 
 Advisory body to the LHCb management that coordinates the activities for the LHCb software for the Upgrade.
