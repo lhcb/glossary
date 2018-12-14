@@ -2,7 +2,7 @@
 
 ## Bender
 
-Python-based physics analysis environment. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/bender/)
+Python-based physics analysis environment. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/bender/).
 
 ## Bookkeeping
 
