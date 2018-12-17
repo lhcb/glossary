@@ -26,9 +26,9 @@ Details in the Online System [webpages](http://lhcb-online.web.cern.ch/lhcb-onli
 
 High-level physics analysis software repository, similar to [Urania](u.md#Urania) but based on [Bender](b.md#Bender)/[DaVinci](d.md#DaVinci).
 
-## ETA
+## eta
 
-See [Flavour Tagging](p.md#pseudorapidity).
+See [pseudorapidity](p.md#pseudorapidity).
 
 ## EvtGen
 
