@@ -26,6 +26,10 @@ Details in the Online System [webpages](http://lhcb-online.web.cern.ch/lhcb-onli
 
 High-level physics analysis software repository, similar to [Urania](u.md#Urania) but based on [Bender](b.md#Bender)/[DaVinci](d.md#DaVinci).
 
+## ETA
+
+See [Flavour Tagging](p.md#pseudorapidity).
+
 ## EvtGen
 
 Software package for simulating the decays of heavy flavour particles using a wide range of decay models.
