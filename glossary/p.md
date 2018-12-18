@@ -41,7 +41,7 @@ A request for processing centrally a physics request. Production Requests are ma
 
 Centrally managed processing, via LHCbDIRAC, of Production Requests (p.md#PR). Examples of productions include: MC simulation, Reconstruction, Stripping, Working Group productions. A production is a combination of application steps.
 
-## ETA: Pseudorapidity {#ETA}
+## Pseudorapidity
 
 The angle between a particle's trajectory and the beam axis, see [Wikipedia](https://en.wikipedia.org/wiki/Pseudorapidity).
 
