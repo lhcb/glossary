@@ -20,6 +20,14 @@ A service at a grid site that stores data. For example: `CERN-USER`, `GRIDKA_MC-
 
 A computing centre hosting grid computing services. For example: `IN2P3-LAPP`.
 
+## SMOG: System for Measuring the Overlap with Gas {#SMOG}
+
+The _System for Measuring the Overlap with Gas_ is a gas injection system designed to increase the pressure inside the LHCb [VELO](v.md#VELO) beam vacuum.
+Only noble gases are injected. The gas spreads out +/- 20 m around the nominal proton-proton interaction point
+and the pressure is approximately $$10^{-7}$$ mbar.
+Originally designed for precise luminosity measurements, SMOG injections are also used for specific data takings,
+allowing LHCb to be operated in fixed target mode.
+
 ## SPD: Scintillating Pad Detector {#SPD}
 
 The SPD consists of scintillating pads and is placed before the [PS](p.md#PS).
