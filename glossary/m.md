@@ -1,5 +1,15 @@
 # M
 
+## Minimum-bias data
+
+Data collected with very loose selection requirements.
+The NoBias stream uses only a clock-based trigger.
+Each Stripping typically uses several other MinBias or MicroBias streams.
+These streams typically require
+  at least one proton-proton collision,
+  event activity above some noise-like threshold,
+or similar.
+
 ## Moore
 
 The LHCb trigger emulation application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/moore/) .
