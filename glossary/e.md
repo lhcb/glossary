@@ -22,6 +22,18 @@ This includes all devices in the areas of data acquisition, detector control (e.
 and the interaction with the outside world.
 Details in the Online System [webpages](http://lhcb-online.web.cern.ch/lhcb-online/ecs/default.htm).
 
+## EDR: Engineering Design Review {#EDR}
+
+A milestone during the construction of a subdetector.
+The EDR is a meeting with accompanying documentation that describes the detailed design of a component system of the detector
+(e.g. sensors, an ASIC, high voltage system) based on drawings and prototypes that have been produced.
+Reviewers with relevant expertise from other subdetectors in LHCb and from other experiments
+are usually appointed to conduct the review and make recommendations. The next major milestone is the [PRR](p.md#PRR).
+
+## EoI: Expression of Interest {#EoI}
+
+Please see the entry for [LoI](l.md#LoI).
+
 ## Erasmus
 
 High-level physics analysis software repository, similar to [Urania](u.md#Urania) but based on [Bender](b.md#Bender)/[DaVinci](d.md#DaVinci).
