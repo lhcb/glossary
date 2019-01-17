@@ -4,7 +4,7 @@
 
 The LHCb trigger emulation application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/moore/) .
 
-## MoU: Memorandum of Understanding {MoU}
+## MoU: Memorandum of Understanding {#MoU}
 
 A document for the [RRB](r.md#RRB) stating the cost of construction of an experiment, or its major upgrade, or its maintenance and operations.
 The construction documents are broken down by subdetector and subsystem, and state the sum that will be paid by each
