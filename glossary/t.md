@@ -24,7 +24,7 @@ This document also describes the cost of the detector and which institutes will 
 The TDRs of LHCb and the upgrades are collected [here](http://cdsweb.cern.ch/search?cc=LHCb+Reports&ln=en&jrec=11).
 The document is reviewed by the [LHCC](l.md#LHCC), with involvement from the [RRB](r.md#RRB) for financial aspects.
 
-## Technical proposal {#TP}
+## Technical Proposal {#TP}
 
 A document submitted to the LHCC of CERN describing the design of a new experiment or major upgrade,
 outlining the physics case and detector design.
