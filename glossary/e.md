@@ -26,7 +26,8 @@ Details in the Online System [webpages](http://lhcb-online.web.cern.ch/lhcb-onli
 
 A milestone during the construction of a subdetector.
 The EDR is a meeting with accompanying documentation that describes the detailed design of a component system of the detector
-(e.g. sensors, an ASIC, high voltage system) based on drawings and prototypes that have been produced.
+(e.g. sensors, an [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit), high voltage system)
+based on drawings and prototypes that have been produced.
 Reviewers with relevant expertise from other subdetectors in LHCb and from other experiments
 are usually appointed to conduct the review and make recommendations. The next major milestone is the [PRR](p.md#PRR).
 

@@ -35,9 +35,9 @@ Logical File Name. A path for a file stored on the grid that does not depend on 
 
 ## LoI: Letter of Intent {#LoI}
 
-An initial document submitted to the LHCC of CERN describing interest in performing a new experiment or major upgrade,
+An initial document submitted to the [LHCC](l.md#LHCC) of CERN describing interest in performing a new experiment or major upgrade,
 outlining the physics case and detector required in broad terms.
-The LHCC reviews the document and determines if the collaboration should proceed to the next stage of approval,
+The [LHCC](l.md#LHCC) reviews the document and determines if the collaboration should proceed to the next stage of approval,
 typically a [Technical Proposal](t.md#TP) or Framework [TDR](t.md#TDR).
 
 For the original LHCb experiment this is [CERN/LHCC-95-5](http://cds.cern.ch/record/290868/files/SC00000024.pdf).

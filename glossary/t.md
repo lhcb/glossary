@@ -19,18 +19,18 @@ A unique 32-bit configuration value (in base 16) representing a given trigger co
 
 ## TDR: Technical Design Report {#TDR}
 
-A document submitted to the LHCC of CERN describing the design of a subdetector or other subsystem (e.g. online, trigger, computing).
+A document submitted to the [LHCC](l.md#LHCC) of CERN describing the design of a subdetector or other subsystem (e.g. online, trigger, computing).
 This document also describes the cost of the detector and which institutes will be responsible for which elements of the construction.
 The TDRs of LHCb and the upgrades are collected [here](http://cdsweb.cern.ch/search?cc=LHCb+Reports&ln=en&jrec=11).
 The document is reviewed by the [LHCC](l.md#LHCC), with involvement from the [RRB](r.md#RRB) for financial aspects.
 
 ## Technical proposal {#TP}
 
-A document submitted to the LHCC of CERN describing the design of a new experiment or major upgrade,
+A document submitted to the [LHCC](l.md#LHCC) of CERN describing the design of a new experiment or major upgrade,
 outlining the physics case and detector design.
-This document contains more detail than the [LoI](l.md#LoI), for example reporting on R&D
+This document contains more detail than the [LoI](l.md#LoI), for example reporting on [R&D](https://en.wikipedia.org/wiki/Research_and_development)
 that shows the feasibility of the project and possibly estimating the cost.
-The LHCC reviews the document and determines if the collaboration should proceed to the next stage of approval,
+The [LHCC](l.md#LHCC) reviews the document and determines if the collaboration should proceed to the next stage of approval,
 typically [TDRs](t.md#TDR) for the individual subdetectors and systems of the experiment.
 If costs are involved the [RRB](r.md#RRB) of CERN is involved in the approval.
 
