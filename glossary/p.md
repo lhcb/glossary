@@ -45,7 +45,7 @@ Centrally managed processing, via LHCbDIRAC, of Production Requests (p.md#PR). E
 
 A milestone during the construction of a subdetector. The PRR occurs after the [EDR](e.md#EDR).
 The PRR is a meeting with accompanying documentation that describes the detailed design of a component system of the detector
-(e.g. sensors, an ASIC, high voltage system).
+(e.g. sensors, an [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit), high voltage system).
 Reviewers with relevant expertise from other subdetectors in LHCb and from other experiments are usually appointed
 to conduct the review and make recommendations.
 The PRR makes recommendations for revisions or approves that the final production of this element of the subdetector can start.
