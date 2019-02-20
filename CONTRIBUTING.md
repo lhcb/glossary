@@ -56,3 +56,10 @@ You can see your local version by using a web browser to navigate to `http://loc
 [gh-fork-pull]: https://help.github.com/articles/using-pull-requests/#fork--pull
 [gh-fork]: https://help.github.com/articles/fork-a-repo/
 [gh-pull]: https://help.github.com/articles/using-pull-requests/
+
+
+<!---
+Friends of Glossary can use this:
+              {"pattern": "«([^»^:])([^»^:]+)»", "flags": "g", "substitute": "[$1$2](https://lhcb.github.io/glossary/glossary/$1.html#$1$2)"},
+              {"pattern": "«([^»]+):([^»^:])([^»^:]+)»", "flags": "g", "substitute": "[$1](https://lhcb.github.io/glossary/glossary/$2.html#$2$3)"}
+--->
