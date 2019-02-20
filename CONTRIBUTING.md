@@ -26,7 +26,7 @@ By contributing, you are agreeing that we may redistribute your work under [CC-B
    There should be two `##`, followed by the definition. If this expands to something,
    you should add that in the same line after a colon, and then put a `{#hyperlink}` to just the unexpanded term.
    
-   If you link to another page, please use the format `[TERM](t.md#TERM)` to make the link (and on the same page the page name is not needed). This should work in both the final webpage and locally on GitHub.
+   If you link to another page, please use the format `«TERM»` or `«Title:TERM»` to make the link. This should work in both the final webpage and locally on GitHub.
 
 4.  Please install the [dependencies](#dependencies) if you want to build the glossary locally.
 
@@ -56,3 +56,10 @@ You can see your local version by using a web browser to navigate to `http://loc
 [gh-fork-pull]: https://help.github.com/articles/using-pull-requests/#fork--pull
 [gh-fork]: https://help.github.com/articles/fork-a-repo/
 [gh-pull]: https://help.github.com/articles/using-pull-requests/
+
+
+<!---
+Friends of Glossary can use this:
+              {"pattern": "«([^»^:])([^»^:]+)»", "flags": "g", "substitute": "[$1$2](https://lhcb.github.io/glossary/glossary/$1.html#$1$2)"},
+              {"pattern": "«([^»]+):([^»^:])([^»^:]+)»", "flags": "g", "substitute": "[$1](https://lhcb.github.io/glossary/glossary/$2.html#$2$3)"}
+--->

@@ -7,7 +7,7 @@ UFOs are known to cause LHC beam dumps upon detection, as a protective measure.
 
 ## Urania
 
-High-level physics analysis software repository, similar to [Erasmus](e.md#Erasmus) but without [Bender](b.md#Bender)/[DaVinci](d.md#DaVinci) as dependencies.
+High-level physics analysis software repository, similar to «Erasmus» but without «Bender»/«DaVinci» as dependencies.
 
 ## USPG: Upgrade Software Planning Group {#USPG}
 

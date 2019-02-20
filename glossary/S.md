@@ -22,7 +22,7 @@ A computing centre hosting grid computing services. For example: `IN2P3-LAPP`.
 
 ## SMOG: System for Measuring the Overlap with Gas {#SMOG}
 
-The _System for Measuring the Overlap with Gas_ is a gas injection system designed to increase the pressure inside the LHCb [VELO](v.md#VELO) beam vacuum.
+The _System for Measuring the Overlap with Gas_ is a gas injection system designed to increase the pressure inside the LHCb «VELO» beam vacuum.
 Only noble gases are injected. The gas spreads out +/- 20 m around the nominal proton-proton interaction point
 and the pressure is approximately $$10^{-7}$$ mbar.
 Originally designed for precise luminosity measurements, SMOG injections are also used for specific data takings,
@@ -30,13 +30,13 @@ allowing LHCb to be operated in fixed target mode.
 
 ## SPD: Scintillating Pad Detector {#SPD}
 
-The SPD consists of scintillating pads and is placed before the [PS](p.md#PS).
-The joint purpose of the SPD and PS is to reduce the background for the [L0](l.md#L0) electron trigger.
-The SPD, in conjunction with the [ECAL](e.md#ECAL), helps distinguish between electrons and neutral particles like photons and neutral pions.
+The SPD consists of scintillating pads and is placed before the «PS».
+The joint purpose of the SPD and PS is to reduce the background for the «L0» electron trigger.
+The SPD, in conjunction with the «ECAL», helps distinguish between electrons and neutral particles like photons and neutral pions.
 
 ## ST: Silicon Tracker {#ST}
 
-A term that collectively refers to the [TT](t.md#TT) and [IT](i.md#IT).
+A term that collectively refers to the «TT» and «IT».
 
 ## Starterkit
 

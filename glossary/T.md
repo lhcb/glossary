@@ -3,11 +3,11 @@
 ## T&A: Tracking and Alignment (and Vertexing) {#TandA}
 
 LHCb physics performance working group for matters of Tracking, Alignment, and Vertexing.
-Also represented in the [OPG](o.md#OPG) as Alignment and as Tracking.
+Also represented in the «OPG» as Alignment and as Tracking.
 
 ## Tagging
 
-See [Flavour Tagging](f.md#flavourtagging).
+See «Flavour Tagging:Flavour-Tagging».
 
 ## TB: Technical Board {#TB}
 
@@ -19,25 +19,25 @@ A unique 32-bit configuration value (in base 16) representing a given trigger co
 
 ## TDR: Technical Design Report {#TDR}
 
-A document submitted to the [LHCC](l.md#LHCC) of CERN describing the design of a subdetector or other subsystem (e.g. online, trigger, computing).
+A document submitted to the «LHCC» of CERN describing the design of a subdetector or other subsystem (e.g. online, trigger, computing).
 This document also describes the cost of the detector and which institutes will be responsible for which elements of the construction.
 The TDRs of LHCb and the upgrades are collected [here](http://cdsweb.cern.ch/search?cc=LHCb+Reports&ln=en&jrec=11).
-The document is reviewed by the [LHCC](l.md#LHCC), with involvement from the [RRB](r.md#RRB) for financial aspects.
+The document is reviewed by the «LHCC», with involvement from the «RRB» for financial aspects.
 
 ## Technical Proposal {#TP}
 
-A document submitted to the [LHCC](l.md#LHCC) of CERN describing the design of a new experiment or major upgrade,
+A document submitted to the «LHCC» of CERN describing the design of a new experiment or major upgrade,
 outlining the physics case and detector design.
-This document contains more detail than the [LoI](l.md#LoI), for example reporting on [R&D](https://en.wikipedia.org/wiki/Research_and_development)
+This document contains more detail than the «LoI», for example reporting on [R&D](https://en.wikipedia.org/wiki/Research_and_development)
 that shows the feasibility of the project and possibly estimating the cost.
-The [LHCC](l.md#LHCC) reviews the document and determines if the collaboration should proceed to the next stage of approval,
-typically [TDRs](t.md#TDR) for the individual subdetectors and systems of the experiment.
-If costs are involved the [RRB](r.md#RRB) of CERN is involved in the approval.
+The «LHCC» reviews the document and determines if the collaboration should proceed to the next stage of approval,
+typically «TDR»s for the individual subdetectors and systems of the experiment.
+If costs are involved the «RRB» of CERN is involved in the approval.
 
 For the original LHCb experiment this is [CERN-98-004](http://lhcb-tp.web.cern.ch/lhcb-tp/)
-followed by an LHCb reoptimized detector design and performance [TDR](t.md#TDR) that is
+followed by an LHCb reoptimized detector design and performance «TDR» that is
 [CERN/LHCC 2003-030](http://cds.cern.ch/record/630827/files/lhcc-2003-030.pdf).
-For the LHCb Upgrade I the equivalent document is known as a Framework [TDR](t.md#TDR), and is
+For the LHCb Upgrade I the equivalent document is known as a Framework «TDR», and is
 [CERN/LHCC-2012-007](http://cds.cern.ch/record/1443882/files/LHCB-TDR-012.pdf).
 For the LHCb Upgrade II the equivalent document is due to be submitted around late 2020.
 
@@ -88,5 +88,5 @@ The type of the track used in `TupleToolTrackInfo`, and anything that includes i
 ## TT: Tracker Turicensis {#TT}
 
 The tracking station located immediately before the magnet in Runs 1 and 2.
-It played an important role in reconstructing tracks that originate outside the [VELO](v.md#VELO), such as those that come from K-shorts and Lambda baryons.
-Much like the [IT](i.md#IT) stations, the TT consists of 4 layers of silicon strips, oriented at 0°, −5°, +5° and 0° from the vertical.
+It played an important role in reconstructing tracks that originate outside the «VELO», such as those that come from K-shorts and Lambda baryons.
+Much like the «IT» stations, the TT consists of 4 layers of silicon strips, oriented at 0°, −5°, +5° and 0° from the vertical.

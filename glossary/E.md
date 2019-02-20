@@ -7,7 +7,7 @@ Group responsible for ensuring that all LHCb publications are consistent with th
 ## ECAL: Electromagnetic Calorimeter {#ECAL}
 
 The purpose of the ECAL is to measure the energy of electrons/photons and prevent them from travelling further through the detector.
-Like the [HCAL](h.md#HCAL), it is a sampling calorimeter made of layers of iron and plastic scintillator.
+Like the «HCAL», it is a sampling calorimeter made of layers of iron and plastic scintillator.
 
 ## ECGD: Early Career, Gender and Diversity {#ECGD}
 
@@ -29,19 +29,19 @@ The EDR is a meeting with accompanying documentation that describes the detailed
 (e.g. sensors, an [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit), high voltage system)
 based on drawings and prototypes that have been produced.
 Reviewers with relevant expertise from other subdetectors in LHCb and from other experiments
-are usually appointed to conduct the review and make recommendations. The next major milestone is the [PRR](p.md#PRR).
+are usually appointed to conduct the review and make recommendations. The next major milestone is the «PRR».
 
 ## EoI: Expression of Interest {#EoI}
 
-Please see the entry for [LoI](l.md#LoI).
+Please see the entry for «LoI».
 
 ## Erasmus
 
-High-level physics analysis software repository, similar to [Urania](u.md#Urania) but based on [Bender](b.md#Bender)/[DaVinci](d.md#DaVinci).
+High-level physics analysis software repository, similar to «Urania» but based on «Bender»/«DaVinci».
 
 ## eta
 
-See [pseudorapidity](p.md#pseudorapidity).
+See «Pseudorapidity».
 
 ## EvtGen
 

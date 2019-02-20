@@ -45,6 +45,6 @@ with open('gitbook_readme.md', 'w') as out:
                                                                         .replace(':', '')
                                                                         .replace('(', '')
                                                                         .replace(')','')
-                                                                        .lower())
+                                                                        .upper())
 
                     print(f"* [{name}]({base}/{letter}.md#{link})", file=out)

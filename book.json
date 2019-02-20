@@ -7,7 +7,16 @@
     "-sharing",
     "panels@git+https://github.com/lhcb/gitbook-plugin-panels.git#master",
     "katex-auto-render@git+https://github.com/lhcb/gitbook-plugin-katex-auto-render.git#master",
+    "replace",
     "collapsible-menu",
     "otherlink"
-  ]
+  ],
+  "pluginsConfig": {
+      "replace": {
+          "substitutes": [
+              {"pattern": "«([^»^:])([^»^:]+)»", "flags": "g", "substitute": "[$1$2]($1.md#$1$2)"},
+              {"pattern": "«([^»]+):([^»^:])([^»^:]+)»", "flags": "g", "substitute": "[$1]($2.md#$2$3)"}
+          ]
+      }
+  }
 }

@@ -1,6 +1,6 @@
 # F
 
-## Flavour Tagging {#flavourtagging}
+## Flavour Tagging
 
 (In LHCb typically) Determination of the sign of the bottomness of a meson at production. I.e. if it was a B or an anti-B at production.
 
@@ -8,5 +8,5 @@
 
 Abbreviation for:
 
- * (Scintillating) Fiber Tracker see [SciFi](s.md#scifi).
+ * (Scintillating) Fiber Tracker see «SciFi».
  * Flavour Tagging.
