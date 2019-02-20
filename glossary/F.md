@@ -8,5 +8,5 @@
 
 Abbreviation for:
 
- * (Scintillating) Fiber Tracker see [SciFi](S.md#scifi).
+ * (Scintillating) Fiber Tracker see «SciFi».
  * Flavour Tagging.
