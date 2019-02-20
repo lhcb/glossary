@@ -3,7 +3,7 @@
 ## HCAL: Hadronic Calorimeter {#HCAL}
 
 The purpose of the HCAL is to stop and measure the energy of hadrons and prevent them from travelling further through the detector.
-Like the [ECAL](e.md#ECAL), it is a sampling calorimeter made of layers of iron and plastic scintillator.
+Like the [ECAL](E.md#ECAL), it is a sampling calorimeter made of layers of iron and plastic scintillator.
 
 ## HLT: High Level Trigger {#HLT}
 

@@ -35,15 +35,15 @@ Advisory body to the LHCb management that defines the strategy and priority of t
 
 ## Production Request {#PR}
 
-A request for processing centrally a physics request. Production Requests are managed by the LHCb distributed computing team via LHCbDIRAC. LHCb users can create production requests via the [LHCbDIRAC Web Portal](https://lhcb-portal-dirac.cern.ch/DIRAC/?view=tabs&theme=Grey&url_state=1|*LHCbDIRAC.ProductionRequestManager.classes.ProductionRequestManager). Production Requests are subject to approval by the [PPG](p.md#PPG).
+A request for processing centrally a physics request. Production Requests are managed by the LHCb distributed computing team via LHCbDIRAC. LHCb users can create production requests via the [LHCbDIRAC Web Portal](https://lhcb-portal-dirac.cern.ch/DIRAC/?view=tabs&theme=Grey&url_state=1|*LHCbDIRAC.ProductionRequestManager.classes.ProductionRequestManager). Production Requests are subject to approval by the [PPG](P.md#PPG).
 
 ## Productions {#Productions}
 
-Centrally managed processing, via LHCbDIRAC, of Production Requests (p.md#PR). Examples of productions include: MC simulation, Reconstruction, Stripping, Working Group productions. A production is a combination of application steps.
+Centrally managed processing, via LHCbDIRAC, of Production Requests (P.md#PR). Examples of productions include: MC simulation, Reconstruction, Stripping, Working Group productions. A production is a combination of application steps.
 
 ## PRR: Production Readiness Review {#PRR}
 
-A milestone during the construction of a subdetector. The PRR occurs after the [EDR](e.md#EDR).
+A milestone during the construction of a subdetector. The PRR occurs after the [EDR](E.md#EDR).
 The PRR is a meeting with accompanying documentation that describes the detailed design of a component system of the detector
 (e.g. sensors, an [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit), high voltage system).
 Reviewers with relevant expertise from other subdetectors in LHCb and from other experiments are usually appointed
@@ -56,9 +56,9 @@ The angle between a particle's trajectory and the beam axis, see [Wikipedia](htt
 
 ## PS: Preshower Detector {#PS}
 
-The PS consists of scintillating pads and is placed after the [SPD](s.md#SPD) and before the [ECAL](e.md#ECAL).
+The PS consists of scintillating pads and is placed after the [SPD](S.md#SPD) and before the [ECAL](E.md#ECAL).
 A lead absorber is placed between the SPD and PS.
-The joint purpose of the SPD and PS is to reduce the background for the [L0](l.md#L0) electron trigger.
+The joint purpose of the SPD and PS is to reduce the background for the [L0](L.md#L0) electron trigger.
 The PS helps distinguish between electrons and charged hadrons.
 
 ## PV: Primary Vertex {#PV}
