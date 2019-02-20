@@ -7,7 +7,7 @@ Also represented in the «OPG» as Alignment and as Tracking.
 
 ## Tagging
 
-See [Flavour Tagging](F.md#flavourtagging).
+See «Flavour Tagging:Flavour-tagging».
 
 ## TB: Technical Board {#TB}
 

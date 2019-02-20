@@ -41,10 +41,10 @@ The «LHCC» reviews the document and determines if the collaboration should pro
 typically a «Technical Proposal:TP» or Framework «TDR».
 
 For the original LHCb experiment this is [CERN/LHCC-95-5](http://cds.cern.ch/record/290868/files/SC00000024.pdf).
-For the LHCb Upgrade I there was initially a shorter [Expression of Interest](E.md#EoI) document
+For the LHCb Upgrade I there was initially a shorter «Expression of Interest:EoI» document
 [CERN/LHCC-2008-007](http://cds.cern.ch/record/1100545/files/lhcc-2008-007.pdf),
-and this was followed by a [Letter of Intent](L.md#LoI) document [CERN/LHCC-2011-001](http://cds.cern.ch/record/1333091/files/LHCC-I-018.pdf).
-For the LHCb Upgrade II the [Expression of Interest](E.md#EoI) is [CERN-LHCC-2018-003](http://cds.cern.ch/record/2244311/files/PII_EoI_final_v3.pdf),
+and this was followed by a «Letter of Intent:LoI» document [CERN/LHCC-2011-001](http://cds.cern.ch/record/1333091/files/LHCC-I-018.pdf).
+For the LHCb Upgrade II the «Expression of Interest:EoI» is [CERN-LHCC-2018-003](http://cds.cern.ch/record/2244311/files/PII_EoI_final_v3.pdf),
 and this was followed by a Physics Case [CERN/LHCC-2018-027](http://cds.cern.ch/record/2636441/files/Physics_II_cases_final.pdf).
 
 Similar documents are often required in the LHCb member countries for their scientific review and funding agencies,

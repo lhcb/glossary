@@ -39,7 +39,7 @@ A request for processing centrally a physics request. Production Requests are ma
 
 ## Productions {#Productions}
 
-Centrally managed processing, via LHCbDIRAC, of Production Requests (P.md#PR). Examples of productions include: MC simulation, Reconstruction, Stripping, Working Group productions. A production is a combination of application steps.
+Centrally managed processing, via LHCbDIRAC, of «Production Requests:PR». Examples of productions include: MC simulation, Reconstruction, Stripping, Working Group productions. A production is a combination of application steps.
 
 ## PRR: Production Readiness Review {#PRR}
 
