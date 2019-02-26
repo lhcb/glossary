@@ -14,8 +14,34 @@
   "pluginsConfig": {
       "replace": {
           "substitutes": [
-              {"pattern": "«([^»^:])([^»^:]+)»", "flags": "g", "substitute": "[$1$2]($1.md#$1$2)"},
-              {"pattern": "«([^»]+):([^»^:])([^»^:]+)»", "flags": "g", "substitute": "[$1]($2.md#$2$3)"}
+              {"pattern": "«([a-z])([^»^:]+)»", "flags": "g", "substitute": "[$1$2]($1.md#$1$2)"},
+              {"pattern": "«A([^»^:]+)»", "flags": "g", "substitute": "[A$1](a.md#a$2)"},
+              {"pattern": "«B([^»^:]+)»", "flags": "g", "substitute": "[B$1](b.md#b$2)"},
+              {"pattern": "«C([^»^:]+)»", "flags": "g", "substitute": "[C$1](c.md#c$2)"},
+              {"pattern": "«D([^»^:]+)»", "flags": "g", "substitute": "[D$1](d.md#d$2)"},
+              {"pattern": "«E([^»^:]+)»", "flags": "g", "substitute": "[E$1](e.md#e$2)"},
+              {"pattern": "«F([^»^:]+)»", "flags": "g", "substitute": "[F$1](f.md#f$2)"},
+              {"pattern": "«G([^»^:]+)»", "flags": "g", "substitute": "[G$1](g.md#g$2)"},
+              {"pattern": "«H([^»^:]+)»", "flags": "g", "substitute": "[H$1](h.md#h$2)"},
+              {"pattern": "«I([^»^:]+)»", "flags": "g", "substitute": "[I$1](i.md#i$2)"},
+              {"pattern": "«J([^»^:]+)»", "flags": "g", "substitute": "[J$1](j.md#j$2)"},
+              {"pattern": "«K([^»^:]+)»", "flags": "g", "substitute": "[K$1](k.md#k$2)"},
+              {"pattern": "«L([^»^:]+)»", "flags": "g", "substitute": "[L$1](l.md#l$2)"},
+              {"pattern": "«M([^»^:]+)»", "flags": "g", "substitute": "[M$1](m.md#m$2)"},
+              {"pattern": "«N([^»^:]+)»", "flags": "g", "substitute": "[N$1](n.md#n$2)"},
+              {"pattern": "«O([^»^:]+)»", "flags": "g", "substitute": "[O$1](o.md#o$2)"},
+              {"pattern": "«P([^»^:]+)»", "flags": "g", "substitute": "[P$1](p.md#p$2)"},
+              {"pattern": "«Q([^»^:]+)»", "flags": "g", "substitute": "[Q$1](q.md#q$2)"},
+              {"pattern": "«R([^»^:]+)»", "flags": "g", "substitute": "[R$1](r.md#r$2)"},
+              {"pattern": "«S([^»^:]+)»", "flags": "g", "substitute": "[S$1](s.md#s$2)"},
+              {"pattern": "«T([^»^:]+)»", "flags": "g", "substitute": "[T$1](t.md#t$2)"},
+              {"pattern": "«U([^»^:]+)»", "flags": "g", "substitute": "[U$1](u.md#u$2)"},
+              {"pattern": "«V([^»^:]+)»", "flags": "g", "substitute": "[V$1](v.md#v$2)"},
+              {"pattern": "«W([^»^:]+)»", "flags": "g", "substitute": "[W$1](w.md#w$2)"},
+              {"pattern": "«X([^»^:]+)»", "flags": "g", "substitute": "[X$1](x.md#x$2)"},
+              {"pattern": "«Y([^»^:]+)»", "flags": "g", "substitute": "[Y$1](y.md#y$2)"},
+              {"pattern": "«Z([^»^:]+)»", "flags": "g", "substitute": "[Z$1](z.md#z$2)"},
+              {"pattern": "«([^»]+):([a-z])([^»^:]+)»", "flags": "g", "substitute": "[$1]($2.md#$2$3)"}
           ]
       }
   }
