@@ -1,6 +1,6 @@
 # T
 
-## T&A: Tracking and Alignment (and Vertexing) {#TandA}
+## T&A: Tracking and Alignment (and Vertexing) {#tanda}
 
 LHCb physics performance working group for matters of Tracking, Alignment, and Vertexing.
 Also represented in the «OPG» as Alignment and as Tracking.
@@ -9,22 +9,22 @@ Also represented in the «OPG» as Alignment and as Tracking.
 
 See «Flavour Tagging:Flavour-Tagging».
 
-## TB: Technical Board {#TB}
+## TB: Technical Board {#tb}
 
 Advisory body to the LHCb management on all aspects of detector design, optimization, safety and cost.
 
-## TCK: Trigger Configuration Key {#TCK}
+## TCK: Trigger Configuration Key {#tck}
 
 A unique 32-bit configuration value (in base 16) representing a given trigger configuration (sequence of algorithms and selection cuts).
 
-## TDR: Technical Design Report {#TDR}
+## TDR: Technical Design Report {#tdr}
 
 A document submitted to the «LHCC» of CERN describing the design of a subdetector or other subsystem (e.g. online, trigger, computing).
 This document also describes the cost of the detector and which institutes will be responsible for which elements of the construction.
 The TDRs of LHCb and the upgrades are collected [here](http://cdsweb.cern.ch/search?cc=LHCb+Reports&ln=en&jrec=11).
 The document is reviewed by the «LHCC», with involvement from the «RRB» for financial aspects.
 
-## Technical Proposal {#TP}
+## Technical Proposal {#tp}
 
 A document submitted to the «LHCC» of CERN describing the design of a new experiment or major upgrade,
 outlining the physics case and detector design.
@@ -41,7 +41,7 @@ For the LHCb Upgrade I the equivalent document is known as a Framework «TDR», 
 [CERN/LHCC-2012-007](http://cds.cern.ch/record/1443882/files/LHCB-TDR-012.pdf).
 For the LHCb Upgrade II the equivalent document is due to be submitted around late 2020.
 
-## Tier (Grid) {#Tier}
+## Tier (Grid) {#tier}
 
 Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, PIC) and tier 2 sites (mostly universities) store data, the tier 1s in particular storing raw data. The tier 3 sites do not store data. See [here for details](http://wlcg-public.web.cern.ch/tier-centres).
 
@@ -85,7 +85,7 @@ The type of the track used in `TupleToolTrackInfo`, and anything that includes i
 | 8  |  Calorimeter cosmic track |
 | 9  |  TT track |
 
-## TT: Tracker Turicensis {#TT}
+## TT: Tracker Turicensis {#tt}
 
 The tracking station located immediately before the magnet in Runs 1 and 2.
 It played an important role in reconstructing tracks that originate outside the «VELO», such as those that come from K-shorts and Lambda baryons.

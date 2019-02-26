@@ -1,9 +1,9 @@
 # O
 
-## OPG: Operation Planning Group {#OPG}
+## OPG: Operation Planning Group {#opg}
 
 Advisory body to the LHCb management that is responsible for collecting and processing data according to the priorities set out by the «PPG».
 
-## OT: Outer Tracker {#OT}
+## OT: Outer Tracker {#ot}
 
 During Runs 1 and 2, the OT was a straw-chamber tracker that covered the low-occupancy outer region of the 3 tracking stations located after the magnet.

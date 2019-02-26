@@ -1,12 +1,12 @@
 # L
 
-## L0: Level Zero Trigger {#L0}
+## L0: Level Zero Trigger {#l0}
 
 The hardware-level trigger that operated during Runs 1 and 2.
 It synchronised to the 40 MHz bunch crossing rate to limit the detector readout rate to 1 MHz into the «HLT».
 Information to make the L0 trigger decisions came from the «CALO» and «MUON» systems.
 
-## LFN: Logical File Name {#LFN}
+## LFN: Logical File Name {#lfn}
 
 A path for a file stored on the grid that does not depend on a file's physical location(s).
 
@@ -19,7 +19,7 @@ See our [private](http://lhcb.web.cern.ch/lhcb/) or [public](http://lhcb-public.
 
 A specific flavour of the DIRAC software for LHCb. It includes some extra functions (for example bookkeeping). See the [docs](https://lhcb-dirac.readthedocs.io/en/latest/).
 
-## LHCC: LHC experiments Committee {#LHCC}
+## LHCC: LHC experiments Committee {#lhcc}
 
 The [CERN committee](cern.ch/committees/lhcc/) that provides oversight and monitors the LHC experiments.
 It reviews proposals for new experiments and experiment upgrades.
@@ -29,11 +29,11 @@ where a report on major physics results and detector performance is given.
 The committee is composed of senior physicists who are not heavily involved in LHC experiments
 or at least not in the experiments that they are reviewing.
 
-## LFN: Logical File Name {#LFN}
+## LFN: Logical File Name {#lfn}
 
 Logical File Name. A path for a file stored on the grid that does not depend on a file's physical location(s).
 
-## LoI: Letter of Intent {#LoI}
+## LoI: Letter of Intent {#loi}
 
 An initial document submitted to the «LHCC» of CERN describing interest in performing a new experiment or major upgrade,
 outlining the physics case and detector required in broad terms.
@@ -50,6 +50,6 @@ and this was followed by a Physics Case [CERN/LHCC-2018-027](http://cds.cern.ch/
 Similar documents are often required in the LHCb member countries for their scientific review and funding agencies,
 focusing for the detector on the elements that will be constructed in that country, as part of their approval process.
 
-## Luminosity Levelling (lumi levelling)
+## Luminosity Levelling (lumi levelling) {#luminosity-levelling}
 
 Procedure of adjust LHC beam parameters such that the instantaneous luminosity stays constant as function of time, although the beam current decreases.
