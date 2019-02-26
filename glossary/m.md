@@ -4,7 +4,7 @@
 
 The LHCb trigger emulation application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/moore/) .
 
-## MoU: Memorandum of Understanding {#MoU}
+## MoU: Memorandum of Understanding {#mou}
 
 A document for the «RRB» stating the cost of construction of an experiment, or its major upgrade, or its maintenance and operations.
 The construction documents are broken down by subdetector and subsystem, and state the sum that will be paid by each
@@ -17,7 +17,7 @@ This is known as the core cost.
 The average number of visible, i.e. inelastic, proton-proton collisions in an LHC bunch crossing.
 See [NuMuPileUp](https://twiki.cern.ch/twiki/bin/view/LHCb/NuMuPileUp).
 
-## MUON: Muon detectors {#MUON}
+## MUON: Muon detectors {#muon}
 
 Originally five stations (M1-M5) that identify and track muons.
 M1 was between «RICH»2 and the «CALO» but was removed after Run 2.

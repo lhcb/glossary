@@ -1,18 +1,18 @@
 # H
 
-## HCAL: Hadronic Calorimeter {#HCAL}
+## HCAL: Hadronic Calorimeter {#hcal}
 
 The purpose of the HCAL is to stop and measure the energy of hadrons and prevent them from travelling further through the detector.
 Like the «ECAL», it is a sampling calorimeter made of layers of iron and plastic scintillator.
 
-## HLT: High Level Trigger {#HLT}
+## HLT: High Level Trigger {#hlt}
 
 Software trigger. Software that decides if data from the detectore gets written to storage or thrown away.
 
 ## HS06
 HEP-wide benchmark for measuring CPU performance based on the [SPEC2006 benchmark](https://www.spec.org).
 
-## HSF: HEP Software Foundation {#HSF}
+## HSF: HEP Software Foundation {#hsf}
 The [HSF](https://hepsoftwarefoundation.org/) facilitates coordination and common efforts in HEP software and computing internationally.
 
 ## HTCondor
