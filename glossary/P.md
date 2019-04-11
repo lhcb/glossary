@@ -38,12 +38,17 @@ Short for "turning it off and on again".
 
 Advisory body to the LHCb management that defines the strategy and priority of the experiments physics programme.
 
-## Physics (Analysis) Working Group (often short "Working Group (WG)")
+## Physics (Analysis) Working Group (often short "Working Group (WG)") {#PAWG}
 
+Group of analysts working on similar/related analyses in terms of research subject.
+PPWGs are coordinated by convenors (who are part of the «PPG»).
+Many working groups are further divided into subgroups.
 See the section below [Physics Planning Group](http://lhcb-conv.web.cern.ch/lhcb-conv/StructureDefault.html#Physics_Planning_Group).
 
 ## PPWG: Physics Performance Working Group {#PPWG}
 
+Groups in charge of maintaining tools and inputs into multiple analyses, such as luminosity measurements, «PID» methods and calibration, «Flavour Tagging:Flavour-Tagging».
+PAWGs are coordinated by convenors (who are part of the «PPG»).
 See the section below [Physics Planning Group](http://lhcb-conv.web.cern.ch/lhcb-conv/StructureDefault.html#Physics_Planning_Group).
 
 ## Production Request {#PR}
