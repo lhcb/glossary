@@ -21,4 +21,4 @@ The committee meets twice per year and LHCb reports to them in closed sessions.
 ## RTA: Real-Time Analysis {#RTA}
 
 «Project:ConstitutionalProject» for the development and maintenance of the real-time processing of LHCb's data for Run 3 and beyond.
-[RTA twiki](https://twiki.cern.ch/twiki/bin/viewauth/LHCb/RealTimeAnalysis)
+See also the [RTA twiki](https://twiki.cern.ch/twiki/bin/viewauth/LHCb/RealTimeAnalysis).
