@@ -23,7 +23,7 @@ The process of determining what species a final state particle is.
 
 ## PL: Project Leader {#PL}
 
-Person responsible for leading a substructure of LHCb that is formally called a «Project:ConstitutionalProject», not those convening working groups.
+Person responsible for leading a substructure of LHCb that is formally called a «Project:ConstitutionalProject». This should not be confused with working group conveners.
 See the list of [current Project leaders](http://lhcb-conv.web.cern.ch/lhcb-conv/StructureDefault.html#Project_Leaders).
 
 ## Point 8
