@@ -21,6 +21,11 @@ The process of determining what species a final state particle is.
 [Charged particle identification](https://twiki.cern.ch/twiki/bin/viewauth/LHCbPhysics/ChargedPID) typically separates electrons, kaons, muons, pions and protons.
 [Neutral particle identification](https://twiki.cern.ch/twiki/bin/view/LHCbPhysics/CalorimeterObjectsToolsGroup) typically separates neutral pions and photons.
 
+## PL: Project Leader {#PL}
+
+Person responsible for leading a sub-structor of LHCb that is formally called a "Project". Typically, projects are subdetectors (VELO, RICH, Silicon Tracker, …) but also Computing, Online, and HLT. Physics analysis working groups and physics performance working groups are formally not considered projects.
+[Current Project leaders](http://lhcb-conv.web.cern.ch/lhcb-conv/StructureDefault.html#Project_Leaders)
+
 ## Point 8
 
 Interaction point of the LHC at which the LHCb pit and the cavern are located.
@@ -32,6 +37,14 @@ Short for "turning it off and on again".
 ## PPG: Physics Planning Group {#PPG}
 
 Advisory body to the LHCb management that defines the strategy and priority of the experiments physics programme.
+
+## Physics (Analysis) Working Group (often short "Working Group (WG)")
+
+See the section below [Physics Planning Group](http://lhcb-conv.web.cern.ch/lhcb-conv/StructureDefault.html#Physics_Planning_Group)
+
+## PPWG: Physics Performance Working Group {#PPWG}
+
+See the section below [Physics Planning Group](http://lhcb-conv.web.cern.ch/lhcb-conv/StructureDefault.html#Physics_Planning_Group)
 
 ## Production Request {#PR}
 
