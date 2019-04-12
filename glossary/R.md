@@ -17,3 +17,8 @@ The [CERN committee](https://cern.ch/committees/LHCRRB) responsible for overseei
 both for operational costs and for the construction of the detectors and their major upgrades.
 The committee is attended by representatives of all the funding agencies that support the experiments.
 The committee meets twice per year and LHCb reports to them in closed sessions.
+
+## RTA: Real-Time Analysis {#RTA}
+
+«Project:ConstitutionalProject» for the development and maintenance of the real-time processing of LHCb's data for Run 3 and beyond.
+See also the [RTA twiki](https://twiki.cern.ch/twiki/bin/viewauth/LHCb/RealTimeAnalysis).

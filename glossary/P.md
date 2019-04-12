@@ -21,6 +21,11 @@ The process of determining what species a final state particle is.
 [Charged particle identification](https://twiki.cern.ch/twiki/bin/viewauth/LHCbPhysics/ChargedPID) typically separates electrons, kaons, muons, pions and protons.
 [Neutral particle identification](https://twiki.cern.ch/twiki/bin/view/LHCbPhysics/CalorimeterObjectsToolsGroup) typically separates neutral pions and photons.
 
+## PL: Project Leader {#PL}
+
+Person responsible for leading a substructure of LHCb that is formally called a «Project:ConstitutionalProject». This should not be confused with working group conveners.
+See the list of [current Project leaders](http://lhcb-conv.web.cern.ch/lhcb-conv/StructureDefault.html#Project_Leaders).
+
 ## Point 8
 
 Interaction point of the LHC at which the LHCb pit and the cavern are located.
@@ -33,6 +38,19 @@ Short for "turning it off and on again".
 
 Advisory body to the LHCb management that defines the strategy and priority of the experiments physics programme.
 
+## Physics (Analysis) Working Group (often short "Working Group (WG)") {#PAWG}
+
+Group of analysts working on similar/related analyses in terms of research subject.
+PPWGs are coordinated by convenors (who are part of the «PPG»).
+Many working groups are further divided into subgroups.
+See the section below [Physics Planning Group](http://lhcb-conv.web.cern.ch/lhcb-conv/StructureDefault.html#Physics_Planning_Group).
+
+## PPWG: Physics Performance Working Group {#PPWG}
+
+Groups in charge of maintaining tools and inputs into multiple analyses, such as luminosity measurements, «PID» methods and calibration, «Flavour Tagging:Flavour-Tagging».
+PAWGs are coordinated by convenors (who are part of the «PPG»).
+See the section below [Physics Planning Group](http://lhcb-conv.web.cern.ch/lhcb-conv/StructureDefault.html#Physics_Planning_Group).
+
 ## Production Request {#PR}
 
 A request for processing centrally a physics request. Production Requests are managed by the LHCb distributed computing team via LHCbDIRAC. LHCb users can create production requests via the [LHCbDIRAC Web Portal](https://lhcb-portal-dirac.cern.ch/DIRAC/?view=tabs&theme=Grey&url_state=1|*LHCbDIRAC.ProductionRequestManager.classes.ProductionRequestManager). Production Requests are subject to approval by the «PPG».
@@ -40,6 +58,16 @@ A request for processing centrally a physics request. Production Requests are ma
 ## Productions {#Productions}
 
 Centrally managed processing, via LHCbDIRAC, of «Production Requests:PR». Examples of productions include: MC simulation, Reconstruction, Stripping, Working Group productions. A production is a combination of application steps.
+
+## Project (Constitutional Project) {#ConstitutionalProject}
+
+A substructure of LHCb as defined by the LHCb constitution.
+Typically these are detectors («VELO», «ST», «CALO», …) but also «HLT», Computing, Online, and «RTA» are projects.
+Not to be confused with Physics (Analysis/Performance) Working Groups (they differ in creation procedure, budget, authority, formal commitment from institutes…).
+
+## Project (Software Project) {#SoftwareProject}
+
+Subdivision level at which LHCb software is hosted (version control, dealing with merge requests, builds, releases).
 
 ## PRR: Production Readiness Review {#PRR}
 

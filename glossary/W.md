@@ -1,5 +1,9 @@
 # W
 
+## WG: Working Group
+
+Short for «Physics Analysis Working Group:PAWG».
+
 ## WN: Worker Node {#WN}
 
 The actual computer that processes your job.
