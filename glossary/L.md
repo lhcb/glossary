@@ -29,10 +29,6 @@ where a report on major physics results and detector performance is given.
 The committee is composed of senior physicists who are not heavily involved in LHC experiments
 or at least not in the experiments that they are reviewing.
 
-## LFN: Logical File Name {#LFN}
-
-Logical File Name. A path for a file stored on the grid that does not depend on a file's physical location(s).
-
 ## LoI: Letter of Intent {#LoI}
 
 An initial document submitted to the «LHCC» of CERN describing interest in performing a new experiment or major upgrade,
