@@ -41,7 +41,9 @@ High-level physics analysis software package [repository](https://gitlab.cern.ch
 similar to «Urania», but based on «Bender»/«DaVinci».
 Refer to the [Twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/Erasmus)
 for a list of the included packages, e.g. packages used by several analyst groups.
-Note that this project is now retired from «CVMFS».
+
+Note that this project is now stopped, and retired from «CVMFS».
+All non-obsolete packages have been moved to the «Urania» project.
 
 ## eta
 
