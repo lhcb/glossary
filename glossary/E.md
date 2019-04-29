@@ -37,7 +37,7 @@ Please see the entry for «LoI».
 
 ## Erasmus
 
-High-level physics analysis software application [repository](https://gitlab.cern.ch/lhcb/Erasmus), similar to «Urania», but based on «Bender». Note that this project is now stopped, and retired from «CVMFS». All non-obsolete packages have been moved to the «Castelao» project, which is based instead on «DaVinci».
+High-level physics analysis software [repository](https://gitlab.cern.ch/lhcb/Erasmus), similar to «Urania», but based on «Bender». Note that this project is now stopped, and retired from «CVMFS». All non-obsolete packages have been moved to the «Castelao» project, which is based instead on «DaVinci».
 
 ## eta
 
