@@ -7,12 +7,7 @@ UFOs are known to cause LHC beam dumps upon detection, as a protective measure.
 
 ## Urania
 
-High-level physics analysis software package [repository](https://gitlab.cern.ch/lhcb/Urania),
-similar to «Erasmus:ERASMUS» (now retired), but without «Bender»/«DaVinci» as dependencies.
-This project is where crucial and central packages such as those for «PID»
-and track calibrations are to be found.
-Refer to the [repository](https://gitlab.cern.ch/lhcb/Urania)
-for a list of available packages.
+High-level physics analysis software application [repository](https://gitlab.cern.ch/lhcb/Urania), similar to «Castelao», but with the same low-level dependencies as the «Gaudi» project. This project is where crucial and central packages such as those used for «PID» response and track efficiency corrections are to be found. Refer to the [repository](https://gitlab.cern.ch/lhcb/Urania) for a list of available packages.
 
 ## USPG: Upgrade Software Planning Group {#USPG}
 
