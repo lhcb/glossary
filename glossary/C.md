@@ -8,7 +8,7 @@ In Runs 1 and 2, the CALO played an important role providing transverse energy m
 
 ## Castelao
 
-High-level physics analysis software [repository](https://gitlab.cern.ch/lhcb/Castelao), similar to «Urania», but based on «DaVinci». This project hosts, among others, important packages used for the centralised production of «PID» and track calibration datasets. Any other packages which are based on «DaVinci» and need to be centrally distributed could be included in the project. Refer to the [repository](https://gitlab.cern.ch/lhcb/Castelao) for a list of available packages.
+High-level physics analysis software [repository](https://gitlab.cern.ch/lhcb/Castelao), similar to «Urania», but based on «DaVinci». This project hosts, among others, important packages used for the centralised production of «PID» and track calibration datasets (PIDCalibProduction, TrackCalibProduction). Any other packages which are based on «DaVinci» and need to be centrally distributed could be included in the project. Refer to the [repository](https://gitlab.cern.ch/lhcb/Castelao) for a list of available packages.
 
 ## CB: Collaboration Board {#CB}
 
