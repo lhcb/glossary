@@ -1,8 +1,19 @@
 # E
 
-## EB: Editorial Board {#EB}
+## EB
+
+Abbreviation for:
+
+ * Editorial Board
+ * Event Builder
+
+## Editorial Board
 
 Group responsible for ensuring that all LHCb publications are consistent with the standards and style of the collaboration.
+
+## Event Builder
+
+Computers in the Online System that are in charge of receiving data from the detector and combining it into events.
 
 ## ECAL: Electromagnetic Calorimeter {#ECAL}
 
