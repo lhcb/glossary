@@ -14,6 +14,7 @@ Group responsible for ensuring that all LHCb publications are consistent with th
 ## Event Builder
 
 Computers in the Online System that are in charge of receiving data from the detector and combining it into events.
+See the Section 3.5 in [Trigger and Online Upgrade TDR](https://cds.cern.ch/record/1701361).
 
 ## ECAL: Electromagnetic Calorimeter {#ECAL}
 
