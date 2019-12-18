@@ -1,8 +1,21 @@
 # E
 
-## EB: Editorial Board {#EB}
+## EB
 
-Group responsible for ensuring that all LHCb publications are consistent with the standards and style of the collaboration.
+Abbreviation for:
+
+ * Editorial Board
+ * Event Builder
+
+## Editorial Board
+
+Entity responsible for ensuring that all LHCb publications are sound and consistent with the standards and style of the collaboration.
+[_Website_](http://lhcb.web.cern.ch/lhcb/lhcb_page/collaboration/organization/editorial_board/default.html).
+
+## Event Builder
+
+Computers in the Online System that are in charge of receiving data from the detector and combining it into events.
+See Section 3.5 in the [Trigger and Online Upgrade TDR](https://cds.cern.ch/record/1701361).
 
 ## ECAL: Electromagnetic Calorimeter {#ECAL}
 
