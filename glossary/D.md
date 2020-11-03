@@ -18,6 +18,12 @@ Official [DIRAC website](http://diracgrid.org/).
 
 The shortest distance between a pair of tracks.
 
+## DPA: Data Processing & Analysis {#DPA}
+
+«Project:ConstitutionalProject» for the development and maintenance of the offline data analysis workflows and software
+for LHCb's Run 3 and beyond.
+See also the [DPA webpages](https://lhcb-dpa.web.cern.ch/).
+
 ## DSS: Detector Safety System {#DSS}
 
 Protection system for the experiment.
