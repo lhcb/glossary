@@ -22,6 +22,9 @@ The ultimate authority within LHCb representing all institutes within the collab
 
 A service at a grid site that runs jobs. For example `LCG.CERN.cern`, `LCG.RAL.uk`.
 
+## Clone rate
+
+
 ## CVMFS: CERN Virtual Machine File System {#CVMFS}
 
 [CVMFS](https://cernvm.cern.ch/portal/filesystem) is a network file system based on HTTP and optimised to deliver experiment software

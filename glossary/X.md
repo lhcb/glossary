@@ -9,3 +9,7 @@ using the HTTPS protocol, and is the main authentication mechanism on the WLCG i
 ## XRootD
 
 Software framework that is a fully generic suite for fast, low latency and scalable data access.
+
+## x-u-v-x configuration {#xuvx}
+
+A configuration for the orientation of 4 layers in a tracking detector station. Layers are tilted by 0°, −5°, +5° and 0° with respect to the vertical to reduce the number of reconstructed ghost tracks. The configuration was used in the «TT» and «OT» during Run 1 and 2, and will be used in the «UT» and «SciFi» during Upgrade I.

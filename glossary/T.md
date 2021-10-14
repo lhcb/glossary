@@ -87,6 +87,10 @@ The type of the track used in `TupleToolTrackInfo`, and anything that includes i
 
 ## TT: Tracker Turicensis {#TT}
 
-The tracking station located immediately before the magnet in Runs 1 and 2.
+The tracking station located immediately before the magnet in Runs 1 and 2. For the LHCb Upgrade I it will be replaced by the «Upstream Tracker:UT». 
 It played an important role in reconstructing tracks that originate outside the «VELO», such as those that come from K-shorts and Lambda baryons.
 Much like the «IT» stations, the TT consists of 4 layers of silicon strips, oriented at 0°, −5°, +5° and 0° from the vertical.
+
+## Tracking efficiency
+Performance number of a tracking algorithm, defined as the amount of reconstructed tracks that can be matched to MC particles with respect to the amount of reconstructible tracks. In offline analysis usually calculated with data-driven tag-and-probe methods on dedicated calibration samples. See references in the [Tracking efficiency TWiki](https://twiki.cern.ch/twiki/bin/viewauth/LHCbInternal/LHCbTrackingEfficiencies) for details.
+
