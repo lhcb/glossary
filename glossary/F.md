@@ -1,5 +1,15 @@
 # F
 
+## Fast simulation {#FastSimulation}
+
+A family of Monte Carlo speed-up simulation techniques developed for the LHCb Run3 simulations to reduce CPU resources. The fast simulation can be produced with different options:
+
++ «ReDecay»
++ «TrackerOnly»
++ «RICHless»
++ «Delphes»
++ SplitSim
+
 ## FD: flight distance {#FD}
 Distance a particle has travelled from a vertex, reconstructed as the distance between a vertex and the decay vertex of the particle. Usually defined with respect to the associated «primary vertex:PV» or the «vertex of origin:ORIGINVERTEX».
 

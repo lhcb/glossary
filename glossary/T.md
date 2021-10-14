@@ -5,7 +5,7 @@
 LHCb physics performance working group for matters of Tracking, Alignment, and Vertexing.
 Also represented in the «OPG» as Alignment and as Tracking.
 
-## Tagging
+## Tagging {#Tagging}
 
 See «Flavour Tagging:Flavour-Tagging».
 
@@ -91,6 +91,10 @@ The tracking station located immediately before the magnet in Runs 1 and 2. For 
 It played an important role in reconstructing tracks that originate outside the «VELO», such as those that come from K-shorts and Lambda baryons.
 Much like the «IT» stations, the TT consists of 4 layers of silicon strips, oriented at 0°, −5°, +5° and 0° from the vertical.
 
-## Tracking efficiency
+## Tracker-only {#TrackerOnly}
+
+A fast simulation that excludes calorimeter and muon geometry, but keeps the RICH geometry included. However, RICH physics lists are switched off.
+
+## Tracking efficiency {#TrackingEfficiency}
 Performance number of a tracking algorithm, defined as the amount of reconstructed tracks that can be matched to MC particles with respect to the amount of reconstructible tracks. In offline analysis usually calculated with data-driven tag-and-probe methods on dedicated calibration samples. See references in the [Tracking efficiency TWiki](https://twiki.cern.ch/twiki/bin/viewauth/LHCbInternal/LHCbTrackingEfficiencies) for details.
 
