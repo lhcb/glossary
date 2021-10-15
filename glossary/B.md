@@ -3,7 +3,7 @@
 ## BCM: Beam Conditions Monitor {#BCM}
 
 A system to detect possible LHC malfunction and protect LHCb against possible damage by constantly monitoring the particle flux.  
-The BCM consists of two stations with 8 diamond sensors each symetrically distributed around the beampipe. The BCM-U is located upstream and the BCM-D downstream of the interaction region.
+The BCM consists of two stations with 8 diamond sensors each symetrically distributed around the beampipe. The BCM-U is located upstream and the BCM-D downstream of the interaction region. See [here](https://arxiv.org/abs/1001.2487) for further details.
 
 ## Bender
 
