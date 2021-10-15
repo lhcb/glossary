@@ -18,7 +18,7 @@ $$\chi^2$$ of the «flight distance:FD» of a particle ($$\chi_\text{FD}^2$$) wi
 
 ## FEST: Full Experiment System Test {#FEST}
 
-A FEST is designed to be an end-to-end test of the experiment's online and offline processing chains. Simulated data is propagated through the trigger system (online) and then through DIRAC transformations to run offline jobs. The aim is mimicking real data-taking conditions as closely possible in order to discover, diagnose, and fix any issues that may be present.
+A FEST is designed to be an end-to-end test of the experiment's online and offline processing chains. Simulated data is propagated through the trigger system (online) and then through DIRAC transformations to run offline jobs on the distributed computing system. The aim is to mimick real data-taking conditions as closely as possible in order to discover, diagnose, and fix any issues that may be present.
 
 The first FEST was made in 2008–2009 in preparation for Run 1. A FEST in preparation for Run 3 is [foreseen](https://indico.cern.ch/event/1006607/) sometime in the summer of 2021.
 
