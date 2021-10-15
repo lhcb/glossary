@@ -5,7 +5,7 @@
 Advisory body to the LHCb management that is responsible for collecting and processing data according to the priorities set out by the «PPG».
 
 ## ORIGINVERTEX: Vertex of Origin {#ORIGINVERTEX}
-The vertex a particle is originating from. For prompt particles corresponding to the «primary vertex:PV», for non-prompt particles corresponding to the decay vertex of the parent particle. 
+The vertex a particle is originating from. For prompt particles it corresponds to the «primary vertex:PV», and for non-prompt particles it corresponds to the decay vertex of the parent particle. 
 
 ## OT: Outer Tracker {#OT}
 

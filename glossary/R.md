@@ -17,7 +17,7 @@ LHCb has two RICH detectors: RICH1, located between the «VELO» and the «TT»;
 
 ## RICH-less {#RICHless}
 
-A fast simulation without simulating cherenkov photons in the RICH, but including RICH material. See [twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/FAQ/GeneratorFAQ#How_do_I_do_RICH_less_Simulation).
+A fast simulation configuration in which Cherenkov photons are not simulated in the RICH, but including RICH material. See [twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/FAQ/GeneratorFAQ#How_do_I_do_RICH_less_Simulation).
 
 ## RRB: LHC experiments Resources Review Board {#RRB}
 
