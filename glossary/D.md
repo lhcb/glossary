@@ -4,7 +4,7 @@
 
 Event selection and data analysis application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/davinci/).
 
-##DecFile {#DecFile}
+## DecFile: decay file {#DecFile}
 
 A file that defines the properties of a specific decay, from which the options file for Gauss is generated. Filename extension: ```.dec```. The decay file for a specific process is named with a "nickname". For example, ```Bd_KpiKpi=TightCut.dec```. The options file for Gauss, generated from the decay file, has a naming convention: ```<EventType>.py``` (see. «EventType»).
 For the Standard Model particles the properties are taken from the ```DECAY.DEC`` file, that follows pdg values. 
