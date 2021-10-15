@@ -20,7 +20,7 @@ A software package which is used for simulating the processes that occur between
 ## Ghost track {#Ghost}
 Fake track reconstructed from combinations of random hits not coming from the same true particle. 
 
-## Ghost rate
+## Ghost rate {#GhostRate}
 Amount of reconstructed tracks not matched to a MC particle with respect to total amount of tracks found by the pattern recognition. Important performance number of a tracking algorithm. 
 
 ## GLIMOS: Group Leader In Matters Of Safety {#GLIMOS}
