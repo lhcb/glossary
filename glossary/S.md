@@ -10,7 +10,7 @@ Former "default" Linux operating system at CERN (SLC6 default operating system o
 
 ## SciFi: Scintillating Fibre Tracker {#SciFi}
 
-Large area tracking detector installed for the Upgrade I of the LHCb detector, located between the magnet and the downstream PID detectors. Successor of the of the «OT»/«IT» tracking system. Consists of 3 stations with 4 layers in a «x-u-v-x configuration: xuvx» each.
+Large area tracking detector installed for the Upgrade I of the LHCb detector, located between the magnet and the downstream PID detectors. Successor of the «OT»/«IT» tracking system. Consists of 3 stations with 4 layers in a «x-u-v-x configuration: xuvx» each.
 
 ## SE: Storage Element {#SE}
 
