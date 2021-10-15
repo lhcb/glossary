@@ -56,9 +56,9 @@ High-level physics analysis software [repository](https://gitlab.cern.ch/lhcb/Er
 
 See «Pseudorapidity».
 
-##EventType {#EvtType}
+## EventType {#EvtType}
 
-A uniquely defined 8-digit id for a specific decay channel used to identify decay files (see. «DecayFile»).
+A uniquely defined 8-digit id for a specific decay channel used to identify «decay files:DecFile».
 
 The first six digits describe the decay. The last two digits are reserved to distinguish between similar decays. The general form of the id is “gsdctnxu”.
 
