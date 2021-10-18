@@ -2,12 +2,12 @@
 
 ## Fast simulation {#FastSimulation}
 
-A family of Monte Carlo speed-up simulation techniques developed for the LHCb Run3 simulations to reduce CPU resources. The fast simulation can be produced with different options:
+A family of Monte Carlo speed-up simulation techniques developed for the LHCb simulations to reduce CPU resources. The fast simulation can be produced with different options:
 
 + «ReDecay»
 + «TrackerOnly»
 + «RICHless»
-+ «Delphes»
++ «Lamarr»
 + SplitSim
 
 ## FD: flight distance {#FD}
