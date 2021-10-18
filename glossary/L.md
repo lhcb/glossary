@@ -6,6 +6,11 @@ The hardware-level trigger that operated during Runs 1 and 2.
 It synchronised to the 40 MHz bunch crossing rate to limit the detector readout rate to 1 MHz into the «HLT».
 Information to make the L0 trigger decisions came from the «CALO» and «MUON» systems.
 
+
+## Lamarr {#Lamarr}
+
+A fully parametric fast simulation technique where not only the detector response, but also the reconstruction is parametrized. See more [here](https://cds.cern.ch/record/2699550/files/davis_fast_simulations_at_lhcb_v3%2004.11.pdf).
+
 ## LFN: Logical File Name {#LFN}
 
 A path for a file stored on the grid that does not depend on a file's physical location(s).
