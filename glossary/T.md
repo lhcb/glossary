@@ -93,7 +93,7 @@ Much like the «IT» stations, the TT consists of 4 layers of silicon strips, or
 
 ## Tracker-only {#TrackerOnly}
 
-A fast simulation that excludes calorimeter and muon geometry, but keeps the RICH geometry included. However, RICH physics lists are switched off.
+A fast simulation configuration that excludes calorimeter and muon geometries, but keeps the RICH geometry included. However, RICH physics lists are switched off.
 
 ## Tracking efficiency {#TrackingEfficiency}
 Performance number of a tracking algorithm, defined as the amount of reconstructed tracks that can be matched to MC particles with respect to the amount of reconstructible tracks. In offline analysis usually calculated with data-driven tag-and-probe methods on dedicated calibration samples. See references in the [Tracking efficiency TWiki](https://twiki.cern.ch/twiki/bin/viewauth/LHCbInternal/LHCbTrackingEfficiencies) for details.
