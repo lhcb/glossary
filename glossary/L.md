@@ -9,7 +9,7 @@ Information to make the L0 trigger decisions came from the «CALO» and «MUON»
 
 ## Lamarr {#Lamarr}
 
-A fully parametric fast simulation technique where not only the detector response, but also the reconstruction is parametrized. See more [here](https://cds.cern.ch/record/2699550/files/davis_fast_simulations_at_lhcb_v3%2004.11.pdf).
+A fully parametric fast simulation technique where not only the detector response, but also the reconstruction is parametrized. See [LHCb-TALK-2019-404](https://cds.cern.ch/record/2699550/files/) for a recent presentation.
 
 ## LFN: Logical File Name {#LFN}
 
