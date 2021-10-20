@@ -41,7 +41,7 @@ with open('gitbook_readme.md', 'w') as out:
                 if line.startswith('##'):
                     d = title_pattern.match(line).groupdict()
                     name = d['name'].strip()
-                    link = d['link'] if d['link'] is not None else (name.replace(' ', '-')
+                    link = d['link'] if d['link'] is not None else (name.replace(' ', '_')
                                                                         .replace(':', '')
                                                                         .replace('(', '')
                                                                         .replace(')','')
