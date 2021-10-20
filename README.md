@@ -1,4 +1,4 @@
-# LHCb Glossary   [![GitHub Actions Status: CI](https://github.com/lhcb/glossary/workflows/CI/badge.svg)](https://github.com/lhcb/glossary/actions)
+# LHCb Glossary   [![GitHub Actions Status: CI](https://github.com/lhcb/glossary/actions/workflows/gitbook-action.yml/badge.svg)](https://github.com/lhcb/glossary/actions)
 
 Glossary of HEP and LHCb-specific terms and concepts - online at <https://lhcb.github.io/glossary/>.
 
