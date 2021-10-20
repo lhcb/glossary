@@ -17,12 +17,20 @@ The LHCb simulation application. [Project website](http://lhcbdoc.web.cern.ch/lh
 A software package which is used for simulating the processes that occur between as particles move through matter.
 [_Website_](https://geant4.web.cern.ch/).
 
+## Ghost track {#Ghost}
+Fake track reconstructed from combinations of random hits not coming from the same true particle. 
+
+## Ghost rate {#GhostRate}
+Amount of reconstructed tracks not matched to a MC particle with respect to total amount of tracks found by the pattern recognition. Important performance number of a tracking algorithm. 
 
 ## GLIMOS: Group Leader In Matters Of Safety {#GLIMOS}
 
 Each collaboration has one of its members designated as the authority in safety matters.
 At CERN, the Group Leader In Matters Of Safety has complete authority over personnel and equipment in all matters that concern safety of the experiment,
 independently of what home institute the personnel or equipment belongs.
+
+## GEC: Global Event Cut {#GEC}
+Preselection requirement applied in the trigger system to discard events that are time consuming in the reconstruction due to large event multiplicities. In the upgrade trigger system applied for some HLT1 lines based on the number of «UT» and «SciFi» clusters.
 
 ## GPD: General Purpose Detector {#GPD}
 

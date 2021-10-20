@@ -56,6 +56,23 @@ High-level physics analysis software [repository](https://gitlab.cern.ch/lhcb/Er
 
 See «Pseudorapidity».
 
+## EventType {#EvtType}
+
+A uniquely defined 8-digit number attributed to a specific decay channel or final state (possibility of inclusion of resonances, etc.), used to identify «decay files:DecFile».
+
+The first six digits describe the decay. The last two digits are reserved to distinguish between similar decays. The general form of the identifier is “gsdctnxu”.
+
+* g: a general flag
+* s: a selection flag
+* d: a decay flag
+* c: a charm and lepton flag
+* t: a number of charged tracks flag
+* n: a neutral particles flag
+* x: an extra flag to distinguish between similar event types
+* u: a user flag indicating different generator conditions
+
+More about assigning EventType identifiers can be found in [this internal note](https://cds.cern.ch/record/855452/files/lhcb-2005-034.pdf).
+
 ## EvtGen
 
 Software package for simulating the decays of heavy flavour particles using a wide range of decay models.

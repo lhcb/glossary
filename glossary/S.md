@@ -1,6 +1,6 @@
 # S
 
-## Sandbox
+## Sandbox {#Sandbox}
 
 A small collection of files passed along with your job. The sandboxes are stored on the DIRAC server and removed after a limited time. The files they contain must be small.
 
@@ -10,7 +10,7 @@ Former "default" Linux operating system at CERN (SLC6 default operating system o
 
 ## SciFi: Scintillating Fibre Tracker {#SciFi}
 
-Large area detector of the Upgraded LHCb experiment, located between the magnet and the downstream PID detectors.
+Large area tracking detector installed for the Upgrade I of the LHCb detector, located between the magnet and the downstream «PID» detectors. Successor of the «OT»/«IT» tracking system. Consists of 3 stations with 4 layers in a «x-u-v-x configuration: xuvx» each.
 
 ## SE: Storage Element {#SE}
 
@@ -38,6 +38,6 @@ The SPD, in conjunction with the «ECAL», helps distinguish between electrons a
 
 A term that collectively refers to the «TT» and «IT».
 
-## Starterkit
+## Starterkit {#Starterkit}
 
-One week introduction course into computer usage at LHCb for young students. With no prerequisites on Linux usage, teaching basic survival skills including Grid usage and ntuple production.
+One week introduction course into computer usage at LHCb for young students. With no prerequisites on Linux usage, teaching basic survival skills including Grid usage and ntuple production. You can find the online version [here](https://lhcb.github.io/starterkit-lessons/index.html).
