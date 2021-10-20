@@ -6,8 +6,8 @@ Event selection and data analysis application. [Project website](http://lhcbdoc.
 
 ## DecFile: decay file {#DecFile}
 
-A file that defines the properties of a specific decay, from which the options file for Gauss is generated. Filename extension: ```.dec```. The decay file for a specific process is named with a "nickname". For example, ```Bd_KpiKpi=TightCut.dec```. The options file for Gauss, generated from the decay file, has a naming convention: ```<EventType>.py``` (see. «EventType»).
-For the Standard Model particles the properties are taken from the ```DECAY.DEC`` file, that follows pdg values. 
+A file that defines the properties of a specific decay or a set of decay chains of one or several particles. Such ```.dec``` option files are used by «Gauss» to determine what exactly gets generated. In LHCb the decay file for a specific process is named with a "nickname". For example, ```Bd_KpiKpi=TightCut.dec```. The options file for «Gauss», generated from the decay file, has a naming convention: ```<EventType>.py``` (see. «EventType»).
+For Standard Model particles the properties are taken from the "master file" ```DECAY.DEC``, which contains the full set of decay chains know to and used within LHCb by EvtGen. 
 The list of all decay files available can be found [here](http://lhcbdoc.web.cern.ch/lhcbdoc/decfiles/). 
 
 ## DIRA: Direction angle {#DIRA}

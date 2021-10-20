@@ -6,7 +6,7 @@ Short for restaurant 1 in building 501 at CERN.
 
 ## ReDecay {#ReDecay}
 
-A fast simulation technique that is based on reusage of the fully simulated underlying event and redecaying the signal process multiple times. See more [here](https://arxiv.org/pdf/1810.10362.pdf) and [twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/FAQ/GeneratorFAQ#How_do_I_use_ReDecay_as_descibed).
+A fast simulation technique that is based on re-usage of the fully simulated underlying event and re-decaying the signal process multiple times. Further details in [this paper](https://arxiv.org/pdf/1810.10362.pdf) and/or [Twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/FAQ/GeneratorFAQ#How_do_I_use_ReDecay_as_descibed).
 
 ## RICH: Ring Imaging Cherenkov Detectors {#RICH}
 
@@ -17,7 +17,7 @@ LHCb has two RICH detectors: RICH1, located between the «VELO» and the «TT»;
 
 ## RICH-less {#RICHless}
 
-A fast simulation configuration in which Cherenkov photons are not simulated in the RICH, but including RICH material. See [twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/FAQ/GeneratorFAQ#How_do_I_do_RICH_less_Simulation).
+A fast simulation configuration in which Cherenkov photons are not simulated in the «RICH», but including RICH material. See [Twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/FAQ/GeneratorFAQ#How_do_I_do_RICH_less_Simulation).
 
 ## RRB: LHC experiments Resources Review Board {#RRB}
 

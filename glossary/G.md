@@ -30,7 +30,7 @@ At CERN, the Group Leader In Matters Of Safety has complete authority over perso
 independently of what home institute the personnel or equipment belongs.
 
 ## GEC: Global Event Cut {#GEC}
-Preselection requirement applied in the trigger system to discard events that are time consuming in the reconstruction due to large event multiplicities. In the upgrade trigger system applied for some HLT1 lines based on the number of UT and SciFi clusters.
+Preselection requirement applied in the trigger system to discard events that are time consuming in the reconstruction due to large event multiplicities. In the upgrade trigger system applied for some HLT1 lines based on the number of «UT» and «SciFi» clusters.
 
 ## GPD: General Purpose Detector {#GPD}
 
