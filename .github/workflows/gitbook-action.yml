@@ -19,7 +19,7 @@ jobs:
         token: ${{ secrets.PERSONAL_TOKEN }}  # -> remember add this in settings/secrets as following
     - name: Gitbook Action Test
       if: github.event_name == 'pull_request'
-      publish_branch: 'gh-pages-test'
       uses: ZanderZhao/gitbook-action@v1.2.4  # -> or ZanderZhao/gitbook-action@master.  If not use master click above, use latest please 
       with:                                   #    or fork this repo and use YourName/gitbook-action@master
         token: ${{ secrets.PERSONAL_TOKEN }}  # -> remember add this in settings/secrets as following
+        publish_branch: 'gh-pages-test'
