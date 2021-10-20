@@ -16,7 +16,7 @@ Advisory body to the LHCb management that coordinates the activities for the LHC
 ## UT: Upstream Tracker {#UT}
 The tracking station located immediately before the magnet in the LHCb Upgrade I, replacing the «TT».
 It plays an important role in reconstructing tracks that originate outside the «VELO», such as those that come from K-shorts and Lambda baryons.
-The UT consists of 4 layers of silicon strips, assembled in a «x-u-v-x configuration:xuvx».
+The UT consists of 4 layers of silicon strips, assembled in a «x-u-v-x configuration:XUVX».
 
 ## UX85
 
