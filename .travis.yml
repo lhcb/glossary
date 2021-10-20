@@ -1,0 +1,26 @@
+dist: xenial
+language: python
+node_js:
+  - "node"
+python:
+  - "3.7"
+
+branches:
+  only:
+    - master
+
+before_install:
+  - npm install gitbook-cli -g
+install:
+  - gitbook install
+script:
+  - python3 .ci/prepare.py
+  - gitbook build
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: master
+  local-dir: _book
