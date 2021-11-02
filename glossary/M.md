@@ -3,10 +3,10 @@
 ## MaPMT: Multianode-Photomultiplier Tubes {#MaPMT}
 
 A vacuum photodetector, that consists of a set of dynodes under graded potential.
-MaPMTs were installed with Upgrade-1 in RICH 1 and RICH 2.
+MaPMTs were installed in RICH 1 and RICH 2 for Upgrade I.
 They replace the previous photodetectors, called «HPD».
-RICH 1 and inner parts of RICH 2 are covered by the 25.4 x 25.4 mm MaPMTs with 64 channels.
-Outer area of RICH 2 is covered with 50.8 x 50.8 mm MaPMTs with 64 channels. 
+RICH 1 and the inner parts of RICH 2 are covered by the 25.4 x 25.4 mm MaPMTs with 64 channels.
+The outer area of RICH 2 is covered with 50.8 x 50.8 mm MaPMTs with 64 channels.
 
 ## MiniDAQ {#MiniDAQ}
 
