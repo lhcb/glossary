@@ -30,11 +30,11 @@ allowing LHCb to be operated in fixed target mode.
 
 ## S-ODIN {#S_ODIN}
 
-A [TFC]{#TFC} readout supervision module responsible for generating the necessary information and commands, see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf) and [ODIN](#ODIN).
+A [TFC]{#TFC} readout supervision module responsible for generating necessary information and commands, see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf) and [ODIN](#ODIN).
 
 ## SOL40
 
-A multiple interface board that connects the frontend and backend readout electronics of the subdetector to the [S-ODIN]{#S_ODIN} with a set of 3.2 Gb/s high-speed bidirectional optical links, see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf).  
+A multiple interface board that connects frontend and backend readout electronics of the subdetector to [S-ODIN]{#S_ODIN} with a set of 3.2 Gb/s high-speed bidirectional optical links, see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf).  
 
 ## SPD: Scintillating Pad Detector {#SPD}
 
@@ -52,9 +52,9 @@ One week introduction course into computer usage at LHCb for young students. Wit
 
 ## sWeights {#sWeights}
 
-A signal/background discrimination technique, that utilizes information about distribution of signal and background events in one variable, called discriminating variable, to get a distribution of the signal and background in the observed variable, called observable.
-From a discriminating variable, where the signal and background distributions are known, a weight is computed per event, that represents signal-likeness or background-likeness.
+Also known as sPlot.
+A signal/background discrimination technique, that utilizes information about distribution of signal and background events in one variable, called a discriminating variable, to get a distribution of signal and background events in the observed variable, called an observable.
+From a discriminating variable, where signal and background distributions are known, a weight is computed per event, that represents signal-likeness or background-likeness.
 Strictly speaking discriminating variable and observable should factorize in order to use this technique.
-Several background species might be specified to compute the weights.
-Also known as sPlot. 
+Several background species might be specified to compute the weights. 
 See [sPlot paper](https://arxiv.org/abs/physics/0402083) and ROOT implementation [SPlot class](https://root.cern/doc/master/classRooStats_1_1SPlot.html).

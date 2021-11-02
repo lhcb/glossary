@@ -57,7 +57,7 @@ Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, 
 
 ## Timepix {#Timepix}
 
-An application specific integrated circuit (ASIC) used in hybrid pixel detectors and has 256x256 pixels of 55um pitch.
+An application specific integrated circuit (ASIC) used in hybrid pixel detectors and has 256x256 pixels of 55$\mu$m pitch.
 Timepix3 is based on the Medipix/Timepix family of ASICs, and additionally offers the possibility to measure the time of arrival of the particle.
 
 ## TISTOS
