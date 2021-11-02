@@ -2,7 +2,7 @@
 
 ## ODIN {#ODIN}
 
-A readout supervision module of «timing and fact control:TFC», see [The final LHCb readout supervisor ODIN](https://cds.cern.ch/record/619217/files/p371.pdf) for LHCb Run 1/Run 2 version.
+A readout supervision module of «timing and fact control:TFC», see the final [Readout Supervisor ODIN](https://cds.cern.ch/record/619217/files/p371.pdf) document for Runs 1 and Run 2.
 An updated version used in Upgrade 1 is called «S-ODIN:S_ODIN».
 
 ## OPG: Operation Planning Group {#OPG}
