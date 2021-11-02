@@ -1,5 +1,9 @@
 # D
 
+## DAQ {#DAQ}
+
+Acronym for Data Acquisition system. See the [Wikipedia introduction](https://en.wikipedia.org/wiki/Data_acquisition).
+
 ## DaVinci {#DaVinci}
 
 Event selection and data analysis application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/davinci/).
@@ -9,6 +13,11 @@ Event selection and data analysis application. [Project website](http://lhcbdoc.
 A file that defines the properties of a specific decay or a set of decay chains of one or several particles. Such ```.dec``` option files are used by «Gauss» to determine what exactly gets generated. In LHCb the decay file for a specific process is named with a "nickname". For example, ```Bd_KpiKpi=TightCut.dec```. The options file for «Gauss», generated from the decay file, has a naming convention: ```<EventType>.py``` (see. «EventType»).
 For Standard Model particles the properties are taken from the "master file" ```DECAY.DEC``, which contains the full set of decay chains know to and used within LHCb by EvtGen. 
 The list of all decay files available can be found [here](http://lhcbdoc.web.cern.ch/lhcbdoc/decfiles/). 
+
+## Delphes {#Delphes}
+
+A fully parametric fast simulation technique where not only the detector response, but also the reconstruction, is parametrized. 
+See more in these [CHEP 2018 proceedings](https://www.epj-conferences.org/articles/epjconf/pdf/2019/19/epjconf_chep2018_02024.pdf).
 
 ## DIRA: Direction angle {#DIRA}
 
