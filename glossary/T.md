@@ -41,9 +41,26 @@ For the LHCb Upgrade I the equivalent document is known as a Framework «TDR», 
 [CERN/LHCC-2012-007](http://cds.cern.ch/record/1443882/files/LHCB-TDR-012.pdf).
 For the LHCb Upgrade II the equivalent document is due to be submitted around late 2020.
 
+## TELL40 {#TELL40}
+
+«Readout Boards:ReadoutBoard» in Upgrade I based on the Advanced Telecommunication Computer Architecture (ATCA) technology.
+The TELL40s operate at 40 MHz and replace the previous TELL1 boards used in Runs 1 and 2.
+
+## TFC: Timing and Fast Control system {#TFC}
+
+A system responsible for controlling and distributing the clock, timing and trigger information,
+synchronous and asynchronous commands to the entire data readout system,
+see the [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf).
+
 ## Tier (Grid) {#Tier}
 
 Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, PIC) and tier 2 sites (mostly universities) store data, the tier 1s in particular storing raw data. The tier 3 sites do not store data. See [here for details](http://wlcg-public.web.cern.ch/tier-centres).
+
+## Timepix {#Timepix}
+
+An «application specific integrated circuit:ASIC» (ASIC) used in hybrid pixel detectors,
+which contains 256 x 256 pixels with a 55 $$\mu$$m pitch.
+Timepix3 is based on the Medipix/Timepix family of «ASICs» and additionally offers the possibility to measure the time of arrival of particles.
 
 ## TISTOS
 
