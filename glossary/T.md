@@ -83,10 +83,6 @@ Split into 5 types depending on which parts of the tracking system are used:
 
 [!["Track types in LHCb"](/figures/track_types.png)](/figures/track_types.png)
 
-## Tracker-only {#TrackerOnly}
-
-A fast simulation configuration that excludes «calorimeter:CALO» and «MUON» geometry, but keeps the «RICH» geometry included. However, RICH physics lists are switched off.    
-
 ## Track Type
 
 The type of the track used in `TupleToolTrackInfo`, and anything that includes it. See [Tracking strategies used in LHCb](https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbTrackingStrategies#Track_types) or [TupleToolTrackInfo](https://twiki.cern.ch/twiki/bin/view/LHCb/TupleToolTrackInfo) for details. The types are:
@@ -112,7 +108,7 @@ Much like the «IT» stations, the TT consists of 4 layers of silicon strips, or
 
 ## Tracker-only {#TrackerOnly}
 
-A fast simulation configuration that excludes «calorimeter:CALO» and «MUON» geometries, but keeps the «RICH» geometry included. However, RICH physics lists are switched off.
+A fast simulation configuration that excludes «calorimeter:CALO» and «MUON» geometries but keeps the «RICH» geometry included. However, RICH physics lists are switched off.
 
 ## Tracking efficiency {#TrackingEfficiency}
 Performance number of a tracking algorithm, defined as the amount of reconstructed tracks that can be matched to MC particles with respect to the amount of reconstructible tracks. In offline analysis usually calculated with data-driven tag-and-probe methods on dedicated calibration samples. See references in the [Tracking efficiency TWiki](https://twiki.cern.ch/twiki/bin/viewauth/LHCbInternal/LHCbTrackingEfficiencies) for details.
