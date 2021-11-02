@@ -13,7 +13,7 @@ Python-based physics analysis environment. [Project website](http://lhcbdoc.web.
 ## BPV: Best Primary Vertex {#BPV}
 
 Online: a «primary vertex:PV» with respect to which a particle (or a track) has the smallest «impact parameter:IP».
-Offline: a primary vertex with respect to which a particle (or a track) has the smallest $$IP\chi^{2}$$. 
+Offline: a primary vertex with respect to which a particle (or a track) has the smallest IP $$\chi^{2}$$. 
 
 ## Bookkeeping
 
