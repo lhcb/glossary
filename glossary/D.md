@@ -16,7 +16,7 @@ The list of all decay files available can be found [here](http://lhcbdoc.web.cer
 
 ## Delphes {#Delphes}
 
-A fully parametric fast simulation technique where not only the detector response, but also the reconstruction is parametrized. See more [here](https://www.epj-conferences.org/articles/epjconf/pdf/2019/19/epjconf_chep2018_02024.pdf).
+A fully parametric fast simulation technique where not only the detector response, but also the reconstruction, is parametrized. See more [here](https://www.epj-conferences.org/articles/epjconf/pdf/2019/19/epjconf_chep2018_02024.pdf).
 
 ## DIRA: Direction angle {#DIRA}
 

@@ -48,7 +48,7 @@ TELL40 operates at 40MHz and replaces the previous system TELL1.
 
 ## TFC: Timing and Fast Control system {#TFC}
 
-A system responsible for controlling and distributins clock, timing and trigger information, synchronous and asynchronous commands to the entire data readout system, see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf).
+A system responsible for controlling and distributing clock, timing and trigger information, synchronous and asynchronous commands to the entire data readout system, see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf).
 
 
 ## Tier (Grid) {#Tier}
@@ -58,7 +58,7 @@ Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, 
 ## Timepix {#Timepix}
 
 An application specific integrated circuit (ASIC) used in hybrid pixel detectors and has 256x256 pixels of 55um pitch.
-Timepix3 is based on the Medipix/Timepix family of ASICs, and additionally offers the possibilty to measure the time of arrival of the particle.
+Timepix3 is based on the Medipix/Timepix family of ASICs, and additionally offers the possibility to measure the time of arrival of the particle.
 
 ## TISTOS
 

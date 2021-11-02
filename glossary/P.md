@@ -7,7 +7,7 @@ Graphical display of detector and event information. [Project website](http://lh
 ## PCIe40: PCIexpress {#PCIe40}
 
 [Readout boards](#ReadoutBoard) used for the [DAQ](#DAQ), [ECS](#ECS) and [TFC](#TFC), see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf).
-Each board has 48 bi-directional optical links for interfacing with fron-end electronics and one bi-directional optical link for interfacing the [TFC](#TFC).
+Each board has 48 bidirectional optical links for interfacing with frontend electronics and one bidirectional optical link for interfacing the [TFC](#TFC).
 
 ## PFN: Physical File Name {#PFN}
 

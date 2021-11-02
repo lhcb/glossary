@@ -2,15 +2,15 @@
 
 ## MaPMT: Multianode-Photomultiplier Tubes {#MaPMT}
 
-A vaccum photodetector, that consists of a set of dynodes under graded potential.
+A vacuum photodetector, that consists of a set of dynodes under graded potential.
 MaPMTs were installed with Upgrade-1 in RICH 1 and RICH 2.
-They replaces the previous photodetectors, called HPD.
+They replace the previous photodetectors, called HPD.
 RICH 1 and inner parts of RICH 2 are covered by the 25.4 x 25.4 mm MaPMTs with 64 channels.
 Outer area of RICH 2 is covered with 50.8 x 50.8 mm MaPMTs with 64 channels. 
 
 ## MiniDAQ {#MiniDAQ}
 
-Readout system development stage server that hosts [TFC](#TFC) and [DAQ](#DAQ) systems, see [LHCb MiniDAQ control system](https://cds.cern.ch/record/2702137/files/10.1051_epjconf_201921401005.pdf).
+A readout system development stage server that hosts [TFC](#TFC) and [DAQ](#DAQ) systems, see [LHCb MiniDAQ control system](https://cds.cern.ch/record/2702137/files/10.1051_epjconf_201921401005.pdf).
 
 ## Moore
 

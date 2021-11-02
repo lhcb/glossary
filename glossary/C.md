@@ -24,10 +24,10 @@ A service at a grid site that runs jobs. For example `LCG.CERN.cern`, `LCG.RAL.u
 
 ## CLARO {#CLARO}
 
-CLARO is a cusotmized 8 channle ASIC CMOS chip used to read-out RICH MaPMTs in Upgrade 1. 
+CLARO is a customized 8 channel ASIC CMOS chip used to read-out RICH MaPMTs in Upgrade 1. 
 It is a digital board with a binary output: either 0 or 1. 
 Each channel is calibrated separately to find the most optimal threshold.
-The threshold defines whether 1 (signal) or 0 (no signal) will be transmiited.
+The threshold defines whether 1 (signal) or 0 (no signal) will be transmitted.
 
 ## CVMFS: CERN Virtual Machine File System {#CVMFS}
 
