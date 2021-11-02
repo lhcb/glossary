@@ -7,7 +7,7 @@ Graphical display of detector and event information. [Project website](http://lh
 ## PCIe40: PCIexpress {#PCIe40}
 
 «Readout boards:ReadoutBoard» used for the «data acquisition system:DAQ», «Experiment Control System:ECS» and «Timing and Fast Control:TFC». Refer to the [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf) for details.
-Each board has 48 bidirectional optical links for interfacing with frontend electronics and one bidirectional optical link for interfacing the TFC.
+Each board has 48 bidirectional optical links for interfacing with frontend electronics and one bidirectional optical link for interfacing the «TDC».
 
 ## PFN: Physical File Name {#PFN}
 
