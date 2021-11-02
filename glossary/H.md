@@ -11,8 +11,8 @@ Software trigger. Software that decides if data from the detectore gets written 
 
 ## HPD: Hybrid Photon Detectors {#HPD}
 
-A vacuum photodetector, that consists of a vacuum photon tube and a pixel silicon detector.
-HPDs were used in the original LHCb design (Run 1 and Run 2).
+A vacuum photodetector consisting of a vacuum photon tube and a pixel silicon detector.
+HPDs were used in the original LHCb design (Runs 1 and 2).
 The radius of the HPD was 72 mm with 8192 pixels, that were combined into 1024 super-pixels, each 8 pixels size.
 
 ## HS06

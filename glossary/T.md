@@ -85,7 +85,7 @@ Split into 5 types depending on which parts of the tracking system are used:
 
 ## Tracker-only {#TrackerOnly}
 
-A fast simulation that excludes calorimeter and muon geometry, but keeps the «RICH» geometry included. However, RICH physics lists are switched off.    
+A fast simulation configuration that excludes «calorimeter:CALO» and «MUON» geometry, but keeps the «RICH» geometry included. However, RICH physics lists are switched off.    
 
 ## Track Type
 
