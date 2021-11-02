@@ -10,7 +10,7 @@ Outer area of RICH 2 is covered with 50.8 x 50.8 mm MaPMTs with 64 channels.
 
 ## MiniDAQ {#MiniDAQ}
 
-A readout system development stage server that hosts «timing and fast control system:TFC» and «data acquisition:DAQ» systems, see [LHCb MiniDAQ control system](https://cds.cern.ch/record/2702137/files/10.1051_epjconf_201921401005.pdf).
+A readout system development stage server that hosts «timing and fast control system:TFC» and «data acquisition:DAQ» systems, see the [MiniDAQ control system](https://cds.cern.ch/record/2702137/files/10.1051_epjconf_201921401005.pdf) document.
 
 ## Moore
 
