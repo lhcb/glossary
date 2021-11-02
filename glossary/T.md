@@ -43,7 +43,7 @@ For the LHCb Upgrade II the equivalent document is due to be submitted around la
 
 ## TELL40 {#TELL40}
 
-Readout Boards in Upgrade 1 based on the Advanced Telecommunication Computer Architecture (ATCA) technology.
+«Readout Boards:ReadoutBoard» in Upgrade 1 based on the Advanced Telecommunication Computer Architecture (ATCA) technology.
 TELL40 operates at 40MHz and replaces the previous system TELL1.
 
 ## TFC: Timing and Fast Control system {#TFC}
@@ -57,7 +57,7 @@ Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, 
 
 ## Timepix {#Timepix}
 
-An application specific integrated circuit (ASIC) used in hybrid pixel detectors and has 256x256 pixels of 55$\mu$m pitch.
+An «application specific integrated circuit:ASIC»(ASIC) used in hybrid pixel detectors and has 256x256 pixels of 55$$\mu$$m pitch.
 Timepix3 is based on the Medipix/Timepix family of ASICs, and additionally offers the possibility to measure the time of arrival of the particle.
 
 ## TISTOS
@@ -85,7 +85,7 @@ Split into 5 types depending on which parts of the tracking system are used:
 
 ## Tracker-only {#TrackerOnly}
 
-A fast simulation that excludes calorimeter and muon geometry, but keeps the RICH geometry included. However, RICH physics lists are switched off.    
+A fast simulation that excludes calorimeter and muon geometry, but keeps the «RICH» geometry included. However, RICH physics lists are switched off.    
 
 ## Track Type
 
@@ -112,7 +112,7 @@ Much like the «IT» stations, the TT consists of 4 layers of silicon strips, or
 
 ## Tracker-only {#TrackerOnly}
 
-A fast simulation configuration that excludes calorimeter and muon geometries, but keeps the RICH geometry included. However, RICH physics lists are switched off.
+A fast simulation configuration that excludes «calorimeter:CALO» and «MUON» geometries, but keeps the «RICH» geometry included. However, RICH physics lists are switched off.
 
 ## Tracking efficiency {#TrackingEfficiency}
 Performance number of a tracking algorithm, defined as the amount of reconstructed tracks that can be matched to MC particles with respect to the amount of reconstructible tracks. In offline analysis usually calculated with data-driven tag-and-probe methods on dedicated calibration samples. See references in the [Tracking efficiency TWiki](https://twiki.cern.ch/twiki/bin/viewauth/LHCbInternal/LHCbTrackingEfficiencies) for details.

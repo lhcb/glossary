@@ -6,7 +6,7 @@
 
 ## VeloPix {#Velopix}
 
-The ASIC used in Upgrade 1 Velo, which is based on Timepix3 ASIC technology.
+The «application specific integrated circuit:ASIC» (ASIC) used in Upgrade 1 Velo, which is based on «Timepix3:Timepix» ASIC technology.
 Contrary to Timepix3, the Velopix ASIC does not give information about the deposited charge in the detector. 
 It assigns the hits to time bins of 25 ns (synchronous with the bunch crossing period).
 

@@ -4,3 +4,7 @@
 
 Analysis preservation tackles the topic of reproducibility of studies and results made by members of the collaboration.
 [Twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/AnalysisPreservationReproducibility) for AP documentation in LHCb.
+
+## ASIC: application specific integrated circuit {#ASIC}
+
+Application specific integrated circuit.
