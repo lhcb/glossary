@@ -1,5 +1,10 @@
 # O
 
+## ODIN {#ODIN}
+
+A readout supervisor module of [TFC](#TFC), see [The final LHCb readout supervisor ODIN](https://cds.cern.ch/record/619217/files/p371.pdf) for LHCb Run 1/Run 2 version.
+In Upgrade 1 an updated version is called [S-ODIN](#S_ODIN).
+
 ## OPG: Operation Planning Group {#OPG}
 
 Advisory body to the LHCb management that is responsible for collecting and processing data according to the priorities set out by the «PPG».

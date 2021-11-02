@@ -11,6 +11,10 @@ See [here](https://arxiv.org/abs/1001.2487) for further details (on the Run 1 & 
 
 Python-based physics analysis environment. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/bender/).
 
+## BPV: Best Primary Vertex {#BPV}
+
+A primary vertex that a track has the smallest IP$\chi^2$ with. 
+
 ## Bookkeeping
 
 The LHCb data recording and data provenance tool. Every single file ever produced by LHCb centrally-managed «productions:Productions» is recorded by the LHCb Bookkeeping. Users can browse the contents of the Bookkeeping via the [LHCbDIRAC Web Portal](https://lhcb-portal-dirac.cern.ch/DIRAC/?view=tabs&theme=Grey&url_state=1|*LHCbDIRAC.BookkeepingBrowser.classes.BookkeepingBrowser).

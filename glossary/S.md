@@ -28,6 +28,14 @@ and the pressure is approximately $$10^{-7}$$ mbar.
 Originally designed for precise luminosity measurements, SMOG injections are also used for specific data takings,
 allowing LHCb to be operated in fixed target mode.
 
+## S-ODIN {#S_ODIN}
+
+A [TFC]{#TFC} readout supervisor module responsible for generating the necessary information and commands, see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf) and [ODIN](#ODIN).
+
+## SOL40
+
+Multiple interface board that connect the front-end and back-end readout electronics of the subdetector to the [S-ODIN]{#S_ODIN} with a set of 3.2 Gb/s high-speed bi-directional optical links, see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf).  
+
 ## SPD: Scintillating Pad Detector {#SPD}
 
 The SPD consists of scintillating pads and is placed before the «PS».
@@ -41,3 +49,12 @@ A term that collectively refers to the «TT» and «IT».
 ## Starterkit {#Starterkit}
 
 One week introduction course into computer usage at LHCb for young students. With no prerequisites on Linux usage, teaching basic survival skills including Grid usage and ntuple production. You can find the online version [here](https://lhcb.github.io/starterkit-lessons/index.html).
+
+## sWeights {#sWeights}
+
+A signal/background discrimination technique, that utilizes information about distribution of signal and background events in one variable, called discriminating variable, to get a distribution of the signal and background in the observed variable, called observable.
+From discriminating variable, where the signal and background distributions are known, a weight is computed per event, that represents signal-likeness or backgroun-likeness.
+Strictly speaking discriminating variable and observable should factorize in order to use this technique.
+Several background species might be specified to compute the weights.
+Also known as sPlot. 
+See [sPlot](https://arxiv.org/abs/physics/0402083) and ROOT implementation [SPlot class](https://root.cern/doc/master/classRooStats_1_1SPlot.html).

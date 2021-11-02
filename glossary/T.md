@@ -41,9 +41,24 @@ For the LHCb Upgrade I the equivalent document is known as a Framework «TDR», 
 [CERN/LHCC-2012-007](http://cds.cern.ch/record/1443882/files/LHCB-TDR-012.pdf).
 For the LHCb Upgrade II the equivalent document is due to be submitted around late 2020.
 
+## TELL40 {#TELL40}
+
+Readout Boards in Upgrade 1 based on the Advanced Telecommunication Computer Architecture (ATCA) technology.
+TELL40 operates at 40MHz and replaces the previous system TELL1.
+
+## TFC: Timing and Fast Control system {#TFC}
+
+A system responsible for controlling and distributins clock, timing and trigger information, synchronous and asynchronous commands to the entire data readout system, see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf).
+
+
 ## Tier (Grid) {#Tier}
 
 Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, PIC) and tier 2 sites (mostly universities) store data, the tier 1s in particular storing raw data. The tier 3 sites do not store data. See [here for details](http://wlcg-public.web.cern.ch/tier-centres).
+
+## Timepix {#Timepix}
+
+An application specific integrated circuit (ASIC) used in hybrid pixel detectors and has 256x256 pixels of 55um pitch.
+Timepix3 is based on the Medipix/Timepix family of ASICs, and additionally offers the possibilty to measure the time of arrival of the particle.
 
 ## TISTOS
 
@@ -67,6 +82,10 @@ Split into 5 types depending on which parts of the tracking system are used:
 * Velo Track
 
 [!["Track types in LHCb"](/figures/track_types.png)](/figures/track_types.png)
+
+## Tracker-only {#TrackerOnly}
+
+A fast simulation that excludes calorimeter and muon geometry, but keeps the RICH geometry included. However, RICH physics lists are switched off.    
 
 ## Track Type
 

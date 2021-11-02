@@ -12,6 +12,12 @@ The **LHCb** software framework, see the [Gaudi homepage](http://gaudi.web.cern.
 
 The LHCb simulation application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/gauss/).
 
+## GBTx: Gigabit Transceiver chip {#GBTx}
+
+A serializer-de-serializer chip receiving and transmitting serial data at 4.8 Gb/s, that uses GBT protocol.
+See [The GBT project](https://cds.cern.ch/record/1235836/files/p342).
+
+
 ## GEANT4: GEometry ANd Tracking 4 {#GEANT4}
 
 A software package which is used for simulating the processes that occur between as particles move through matter.

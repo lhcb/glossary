@@ -9,6 +9,12 @@ Like the «ECAL», it is a sampling calorimeter made of layers of iron and plast
 
 Software trigger. Software that decides if data from the detectore gets written to storage or thrown away.
 
+## HPD: Hybrid Photon Detectors {#HPD}
+
+A vacuum photodetector, that consists of vacuum photon tube and a pixel silicon detector.
+HPDs were used in the original LHCb design (Run 1 and Run 2).
+The radius of the HPD was 72 mm with 8192 pixels, that were combined into 1024 super-pixels, each 8 pixels size.
+
 ## HS06
 HEP-wide benchmark for measuring CPU performance based on the [SPEC2006 benchmark](https://www.spec.org).
 

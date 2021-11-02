@@ -7,6 +7,7 @@ A family of Monte Carlo speed-up simulation techniques developed for the LHCb si
 + «ReDecay»
 + «TrackerOnly»
 + «RICHless»
+<<<<<<< HEAD
 + «Lamarr»
 + SplitSim
 
@@ -22,9 +23,16 @@ A FEST is designed to be an end-to-end test of the experiment's online and offli
 
 The first FEST was made in 2008–2009 in preparation for Run 1. A FEST in preparation for Run 3 is [foreseen](https://indico.cern.ch/event/1006607/) sometime in the summer of 2021.
 
+=======
++ «Delphes»
++ SplitSim
+
 ## Flavour Tagging
 
 (In LHCb typically) Determination of the sign of the bottomness of a meson at production. I.e. if it was a B or an anti-B at production.
+
+## FPGA: Field Programmable Gate Array {#FPGA}
+
 
 ## FT
 
