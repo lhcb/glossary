@@ -30,7 +30,7 @@ allowing LHCb to be operated in fixed target mode.
 
 ## S-ODIN {#S_ODIN}
 
-A «timing and fast control: TFC» readout supervision module responsible for generating necessary information and commands, see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf) and [ODIN](#ODIN).
+A «timing and fast control: TFC» readout supervision module responsible for generating necessary information and commands, see [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf) and «ODIN».
 
 ## SOL40
 
