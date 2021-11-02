@@ -26,9 +26,6 @@ The first FEST was made in 2008–2009 in preparation for Run 1. A FEST in prepa
 
 (In LHCb typically) Determination of the sign of the bottomness of a meson at production. I.e. if it was a B or an anti-B at production.
 
-## FPGA: Field Programmable Gate Array {#FPGA}
-
-
 ## FT
 
 Abbreviation for:
