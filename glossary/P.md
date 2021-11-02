@@ -4,6 +4,11 @@
 
 Graphical display of detector and event information. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/panoramix/).
 
+## PCIe40: PCI express {#PCIe40}
+
+«Readout boards:ReadoutBoard» used for the «data acquisition system:DAQ», «Experiment Control System:ECS» and «Timing and Fast Control:TFC» (TFC). Refer to the [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf) for details.
+Each board has 48 bidirectional optical links for interfacing with the frontend electronics and one bidirectional optical link for interfacing the «TFC».
+
 ## PFN: Physical File Name {#PFN}
 
 A path for a file on the grid, including the physical location to allow for access.
