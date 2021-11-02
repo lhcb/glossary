@@ -6,7 +6,7 @@ Short for restaurant 1 in building 501 at CERN.
 
 ## Readout Board {#ReadoutBoard}
 
-A generic component designed for data acquisition of all detectors, distribution of the timing and fast commands and the slow control.  
+A generic component designed for data acquisition of all detectors, distribution of the timing and fast commands and the slow control.
 In LHCb the «PCI Express 40 board:PCIe40» (PCIe40) is used, see the [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf).
 
 ## ReDecay {#ReDecay}
