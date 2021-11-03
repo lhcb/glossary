@@ -22,6 +22,13 @@ The ultimate authority within LHCb representing all institutes within the collab
 
 A service at a grid site that runs jobs. For example `LCG.CERN.cern`, `LCG.RAL.uk`.
 
+## CLARO {#CLARO}
+
+CLARO is a customized 8-channel «ASIC» CMOS chip used to read out «RICH» «MaPMT»s in Upgrade I. 
+It is a digital board with a binary output. 
+Each channel is calibrated separately to find the most optimal threshold.
+The threshold defines whether 1 (signal) or 0 (no signal) will be transmitted.
+
 ## CVMFS: CERN Virtual Machine File System {#CVMFS}
 
 [CVMFS](https://cernvm.cern.ch/portal/filesystem) is a network file system based on HTTP and optimised to deliver experiment software

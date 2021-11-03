@@ -1,5 +1,10 @@
 # S
 
+## S-ODIN {#S_ODIN}
+
+A «TFC» readout supervision module responsible for generating necessary information and commands,
+see the [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf) and «ODIN».
+
 ## Sandbox {#Sandbox}
 
 A small collection of files passed along with your job. The sandboxes are stored on the DIRAC server and removed after a limited time. The files they contain must be small.
@@ -27,6 +32,11 @@ Only noble gases are injected. The gas spreads out +/- 20 m around the nominal p
 and the pressure is approximately $$10^{-7}$$ mbar.
 Originally designed for precise luminosity measurements, SMOG injections are also used for specific data takings,
 allowing LHCb to be operated in fixed target mode.
+
+## SOL40 {#SOL40}
+
+A multiple interface board that connects frontend and backend readout electronics of the subdetector to the «S-ODIN:S_ODIN»
+with a set of 3.2 Gb/s high-speed bidirectional optical links, see the [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf).
 
 ## SPD: Scintillating Pad Detector {#SPD}
 

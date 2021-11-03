@@ -4,6 +4,11 @@
 
 Short for restaurant 1 in building 501 at CERN.
 
+## Readout Board {#ReadoutBoard}
+
+A generic component designed for data acquisition of all detectors, distribution of the timing and fast commands and the slow control.
+In LHCb the «PCI Express 40 board:PCIe40» (PCIe40) is used, see the [LHCb Trigger and Online TDR](https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf).
+
 ## ReDecay {#ReDecay}
 
 A fast simulation technique that is based on re-usage of the fully simulated underlying event and re-decaying the signal process multiple times. Further details in [this paper](https://arxiv.org/pdf/1810.10362.pdf) and/or [Twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/FAQ/GeneratorFAQ#How_do_I_use_ReDecay_as_descibed).

@@ -19,6 +19,11 @@ The LHCb data recording and data provenance tool. Every single file ever produce
 
 The LHCb digitisation (simulation of detector response) application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/boole/).
 
+## BPV: Best Primary Vertex {#BPV}
+
+Online: a «primary vertex:PV» with respect to which a particle (or a track) has the smallest «impact parameter:IP».
+Offline: a primary vertex with respect to which a particle (or a track) has the smallest IP $$\chi^{2}$$. 
+
 ## Brunel
 
 The LHCb reconstruction application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/brunel/).
