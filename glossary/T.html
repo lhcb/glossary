@@ -537,8 +537,19 @@ followed by an LHCb reoptimized detector design and performance <a href="T.html#
 For the LHCb Upgrade I the equivalent document is known as a Framework <a href="T.html#TDR">TDR</a>, and is
 <a href="http://cds.cern.ch/record/1443882/files/LHCB-TDR-012.pdf" target="_blank">CERN/LHCC-2012-007</a>.
 For the LHCb Upgrade II the equivalent document is due to be submitted around late 2020.</p>
+<h2 id="TELL40">TELL40 </h2>
+<p><a href="R.html#ReadoutBoard">Readout Boards</a> in Upgrade I based on the Advanced Telecommunication Computer Architecture (ATCA) technology.
+The TELL40s operate at 40 MHz and replace the previous TELL1 boards used in Runs 1 and 2.</p>
+<h2 id="TFC">TFC: Timing and Fast Control system </h2>
+<p>A system responsible for controlling and distributing the clock, timing and trigger information,
+synchronous and asynchronous commands to the entire data readout system,
+see the <a href="https://cds.cern.ch/record/1701361/files/LHCB-TDR-016.pdf" target="_blank">LHCb Trigger and Online TDR</a>.</p>
 <h2 id="Tier">Tier (Grid) </h2>
 <p>Grid sites are split into tiers depending on their resources. Tier 1 (i.e. RAL, PIC) and tier 2 sites (mostly universities) store data, the tier 1s in particular storing raw data. The tier 3 sites do not store data. See <a href="http://wlcg-public.web.cern.ch/tier-centres" target="_blank">here for details</a>.</p>
+<h2 id="Timepix">Timepix </h2>
+<p>An <a href="A.html#ASIC">application specific integrated circuit</a> (ASIC) used in hybrid pixel detectors,
+which contains 256 x 256 pixels with a 55 $$\mu$$m pitch.
+Timepix3 is based on the Medipix/Timepix family of <a href="A.html#ASICs">ASICs</a> and additionally offers the possibility to measure the time of arrival of particles.</p>
 <h2 id="tistos">TISTOS</h2>
 <p>Trigger decisions can be classified into three categories:</p>
 <ul>
@@ -558,6 +569,8 @@ Split into 5 types depending on which parts of the tracking system are used:</p>
 <li>Velo Track</li>
 </ul>
 <p><a href="../figures/track_types.png"><img src="../figures/track_types.png" alt="&quot;Track types in LHCb&quot;"></a></p>
+<h2 id="TrackerOnly">Tracker-only </h2>
+<p>A fast simulation configuration that excludes the <a href="C.html#CALO">calorimeter</a> and <a href="M.html#MUON">MUON</a> geometries but keeps the <a href="R.html#RICH">RICH</a> geometry included. However, RICH physics lists are switched off.</p>
 <h2 id="track-type">Track Type</h2>
 <p>The type of the track used in <code>TupleToolTrackInfo</code>, and anything that includes it. See <a href="https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbTrackingStrategies#Track_types" target="_blank">Tracking strategies used in LHCb</a> or <a href="https://twiki.cern.ch/twiki/bin/view/LHCb/TupleToolTrackInfo" target="_blank">TupleToolTrackInfo</a> for details. The types are:</p>
 <table>
@@ -614,8 +627,6 @@ Split into 5 types depending on which parts of the tracking system are used:</p>
 <p>The tracking station located immediately before the magnet in Runs 1 and 2. For the LHCb Upgrade I it will be replaced by the <a href="U.html#UT">Upstream Tracker</a>. 
 It played an important role in reconstructing tracks that originate outside the <a href="V.html#VELO">VELO</a>, such as those that come from K-shorts and Lambda baryons.
 Much like the <a href="I.html#IT">IT</a> stations, the TT consists of 4 layers of silicon strips, oriented at 0&#xB0;, &#x2212;5&#xB0;, +5&#xB0; and 0&#xB0; from the vertical.</p>
-<h2 id="TrackerOnly">Tracker-only </h2>
-<p>A fast simulation configuration that excludes calorimeter and muon geometries, but keeps the RICH geometry included. However, RICH physics lists are switched off.</p>
 <h2 id="TrackingEfficiency">Tracking efficiency </h2>
 <p>Performance number of a tracking algorithm, defined as the amount of reconstructed tracks that can be matched to MC particles with respect to the amount of reconstructible tracks. In offline analysis usually calculated with data-driven tag-and-probe methods on dedicated calibration samples. See references in the <a href="https://twiki.cern.ch/twiki/bin/viewauth/LHCbInternal/LHCbTrackingEfficiencies" target="_blank">Tracking efficiency TWiki</a> for details.</p>
 
@@ -661,7 +672,7 @@ Much like the <a href="I.html#IT">IT</a> stations, the TT consists of 4 layers o
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"T","level":"1.22","depth":1,"next":{"title":"U","level":"1.23","depth":1,"path":"glossary/U.md","ref":"glossary/U.md","articles":[]},"previous":{"title":"S","level":"1.21","depth":1,"path":"glossary/S.md","ref":"glossary/S.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-sharing","panels@git+https://github.com/lhcb/gitbook-plugin-panels.git#master","katex-auto-render@git+https://github.com/lhcb/gitbook-plugin-katex-auto-render.git#master","replace","collapsible-menu","otherlink"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"collapsible-menu":{},"search":{},"otherlink":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"panels":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"replace":{"substitutes":[{"pattern":"«([^»^:])([^»^:]+)»","flags":"g","substitute":"[$1$2]($1.md#$1$2)"},{"pattern":"«([^»]+):([^»^:])([^»^:]+)»","flags":"g","substitute":"[$1]($2.md#$2$3)"}]},"katex-auto-render":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"The Starterkit team and contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"gitbook_readme.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"gitbook":"*"},"file":{"path":"glossary/T.md","mtime":"2021-11-02T18:44:47.709Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-11-02T18:45:22.985Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"T","level":"1.22","depth":1,"next":{"title":"U","level":"1.23","depth":1,"path":"glossary/U.md","ref":"glossary/U.md","articles":[]},"previous":{"title":"S","level":"1.21","depth":1,"path":"glossary/S.md","ref":"glossary/S.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-sharing","panels@git+https://github.com/lhcb/gitbook-plugin-panels.git#master","katex-auto-render@git+https://github.com/lhcb/gitbook-plugin-katex-auto-render.git#master","replace","collapsible-menu","otherlink"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"collapsible-menu":{},"search":{},"otherlink":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"panels":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"replace":{"substitutes":[{"pattern":"«([^»^:])([^»^:]+)»","flags":"g","substitute":"[$1$2]($1.md#$1$2)"},{"pattern":"«([^»]+):([^»^:])([^»^:]+)»","flags":"g","substitute":"[$1]($2.md#$2$3)"}]},"katex-auto-render":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"The Starterkit team and contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"gitbook_readme.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"gitbook":"*"},"file":{"path":"glossary/T.md","mtime":"2021-11-17T13:49:59.943Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-11-17T13:50:36.300Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
