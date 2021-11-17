@@ -1,6 +1,6 @@
 # N
 
-##Ntuple {#Ntuple}
+## Ntuple {#Ntuple}
 
 A columnar dataset format in [ROOT](https://root.cern/) that contains fixed size lists of floats only. See [TNtuple](https://root.cern/doc/master/classTNtuple.html) class of ROOT.
 
