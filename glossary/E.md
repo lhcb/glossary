@@ -44,6 +44,12 @@ based on drawings and prototypes that have been produced.
 Reviewers with relevant expertise from other subdetectors in LHCb and from other experiments
 are usually appointed to conduct the review and make recommendations. The next major milestone is the «PRR».
 
+## EMTF: Early Measurements Task Forse {#EMTF}
+
+The Early Measurement task force coordinates the earliest data analyses (in close collaboration with the software, simulation, commissioning, online and offline analysis teams including calibration, alignment, etc. experts) to ensure the rapid exploitation of the LHCb data which taken at the start of a new Run. This may be for validation of a new detector, new readout systems, new reconstruction, a new trigger, and new running conditions, etc. 
+The first and most important mission of the EMTF is to make sure that we are ready to do analysis efficiently as soon as we have the new data.
+The second mission of the EMTF is to identify, prepare for, and help perform important analyses with the early Run data. Follow this [TWiki link]( https://twiki.cern.ch/twiki/bin/viewauth/LHCbPhysics/EarlyMeasurementsRun3)
+
 ## EoI: Expression of Interest {#EoI}
 
 Please see the entry for «LoI».
