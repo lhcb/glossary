@@ -16,7 +16,7 @@ The ultimate authority within LHCb representing all institutes within the collab
 
 ## CC7: CentOS CERN 7 {#CC7}
 
-The former "default" Linux operating system at CERN (CentOS7 default operating system on lxplus since start of 2019 and became end-of-service at June 30, 2024).
+The former "default" Linux operating system at CERN, default on lxplus since start of 2019 until June 30, 2024 when it ended service and got replaced by AlmaLinux.
 
 ## CE: Computing Element {#CE}
 
