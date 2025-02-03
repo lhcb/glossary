@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout action
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: Prepare
       run: python3 .ci/prepare.py
     - name: Gitbook Action           # https://github.com/ZanderZhao/gitbook-action/releases
